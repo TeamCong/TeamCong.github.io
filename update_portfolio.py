@@ -90,9 +90,9 @@ def create_apps_from_known_data():
             "category": "Entertainment",
             "platform": "iPhone",
             "description": "Track and manage your Pokemon card collection values. Stay up-to-date with current market prices and organize your collection.",
-            "app_store_url": "https://apps.apple.com/gb/app/card-value-tracker-for-pokemon/id1234567898",
+            "app_store_url": "https://apps.apple.com/gb/app/card-value-tracker-for-pokemon/id6743774763",
             "icon_url": "",
-            "app_id": "1234567898"
+            "app_id": "6743774763"
         },
         {
             "name": "Link Saver - fast and easy",
@@ -120,6 +120,15 @@ def create_apps_from_known_data():
             "app_store_url": "https://apps.apple.com/gb/app/to-do-list-one-focus/id1234567895",
             "icon_url": "",
             "app_id": "1234567895"
+        },
+        {
+            "name": "Water them plants",
+            "category": "Utilities",
+            "platform": "iPhone",
+            "description": "A plant watering reminder app. Add photos using your camera or from photo library. Set custom times and recurring dates so you don't forget to water your lovely plants.",
+            "app_store_url": "https://apps.apple.com/gb/app/water-them-plants/id1234567XXX",
+            "icon_url": "",
+            "app_id": "1234567XXX"
         }
     ]
     

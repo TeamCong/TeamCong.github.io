@@ -1,29 +1,30 @@
-# TeamCong Portfolio & GitHub Pages
+# Cong Le - Principal iOS Developer Portfolio
 
-**Professional iOS developer portfolio hosted on GitHub Pages**
+**Professional iOS developer portfolio for Principal iOS Developer at Capital One**
 
 🌐 **Live Site**: [https://teamcong.github.io](https://teamcong.github.io)  
 🍎 **App Store**: [Cong Le Developer Profile](https://apps.apple.com/gb/developer/cong-le/id954373766)  
-👨‍💻 **Personal Site**: [https://congl3.github.io](https://congl3.github.io)
+👨‍💻 **Personal Site**: [https://congl3.github.io](https://congl3.github.io)  
+🏦 **Current Role**: Principal iOS Developer at Capital One
 
 ## 🎯 Purpose
 
-This repository serves multiple purposes:
+This repository serves as a comprehensive professional portfolio for:
 
-- **📱 Professional Portfolio**: Showcase of all TeamCong mobile applications with real statistics
-- **🏆 Featured Apps**: Highlighting Anniversary Tracker (65k+ downloads) and other popular apps
-- **📋 Legal Hub**: Privacy Policy and Terms & Conditions for all apps
+- **💼 Professional Showcase**: Highlighting 9+ years of iOS development experience at Capital One and other companies
+- **🏆 Technical Leadership**: Demonstrating architecture skills, team leadership, and enterprise-scale development
+- **📱 Personal Projects**: Showcasing personal app development skills with 150k+ downloads
+- **📋 Legal Compliance**: Privacy Policy and Terms & Conditions for personal apps
 - **📺 Ad Network**: `app-ads.txt` file for AdMob and other advertising partners
-- **📄 Professional CV**: Complete resume with technical skills and achievements
-- **🔗 Central Reference**: Canonical URLs for app submissions and legal compliance
+- **📄 Professional CV**: Complete resume highlighting technical leadership and achievements
 
 ## 📁 Repository Structure
 
 ```
-├── index.md                    # Main portfolio page with featured apps
-├── cv.md                       # Professional CV/Resume  
-├── privacy.md                  # Privacy policy for all apps
-├── terms.md                    # Terms and conditions for all apps
+├── index.md                    # Main portfolio showcasing professional experience
+├── cv.md                       # Comprehensive professional CV/Resume  
+├── privacy.md                  # Privacy policy for personal apps
+├── terms.md                    # Terms and conditions for personal apps
 ├── app-ads.txt                 # Ad network authorization file
 ├── _config.yml                 # Jekyll configuration
 ├── .cursorrules               # Development guidelines
@@ -54,38 +55,32 @@ make update-ids
 make deploy
 ```
 
-### Option 2: Manual Setup
-```bash
-# Install Python dependencies
-pip install -r requirements.txt
+## 💼 Professional Profile
 
-# Update portfolio with current app data
-python3 update_portfolio.py
+### Current Role: Principal iOS Developer at Capital One
+**Dec 2021 - Present (3 yrs 7 mos)**
 
-# Update App Store IDs with real ones
-python3 update_app_ids.py
+- 🏆 **Highest contributor** to the iOS repository across the entire team
+- 🏗️ **Architecture leadership** - tackling challenges with legacy codebases and modernization
+- 🤝 **Cross-functional collaboration** - working with designers, product owners, QA, and services teams
+- 📈 **Continuous improvement** - driving codebase health and development practices
 
-# Deploy changes
-git add .
-git commit -m "feat: Update portfolio"
-git push origin main
-```
+### Professional Experience Timeline
+- **2021-Present**: Principal iOS Developer at Capital One (Nottingham)
+- **2020-2021**: English Second Language Teacher (Career transition)
+- **2015-2018**: Senior iOS Developer at Capital One (London)
+- **2013-2014**: iOS Developer at Wonder PL (London)
+
+**Total Professional Experience**: 9+ years of iOS development
 
 ## 🌟 Portfolio Highlights
 
-### 🏆 Featured Apps
-The portfolio prominently features your most successful applications:
-
-**🎯 Anniversary Tracker**
-- **65k+ Downloads** | **800k Sessions** | **4.7⭐ Rating**
-- Your flagship relationship tracking app
+### 🏆 Featured Personal Project: Anniversary Tracker
+- **150k+ Downloads** | **5k Ratings at 4.7⭐**
+- Demonstrates end-to-end product development skills alongside professional work
 - Technologies: SwiftUI, Core Data, MVVM, Swift
 
-**💕 Couple Days Counter**
-- Popular relationship milestone tracking
-- Technologies: Swift, Core Data, Local Notifications
-
-### 📱 Complete App Collection (15+ Apps)
+### 📱 Personal App Collection (12+ Apps)
 
 #### 📸 Photo & Video Apps
 - **VidCompression** - Video compression tool
@@ -104,13 +99,11 @@ The portfolio prominently features your most successful applications:
 #### 💰 Finance & Calculations
 - **Mortgage Calculator - Learn** - Financial calculations
 
-#### 🎮 Entertainment & Games
+#### 🎮 Entertainment
 - **Card Value Tracker for Pokemon** - Trading card management
-- **Fish Run - Collect stars** - Unity infinity runner
-- **Run Run Run** - Canabalt-style Unity game
 
 #### 💕 Lifestyle
-- **Couple days counter** - Relationship milestones (also featured)
+- **Couple days counter** - Relationship milestones
 
 #### 🌅 Weather & Information
 - **Sunrise & Sunset tracker** - Solar tracking
@@ -141,28 +134,13 @@ make serve            # Start local development server
 
 ## 🆔 Updating App Store IDs
 
-Your apps currently use placeholder IDs. To update with real App Store IDs:
+Your personal apps currently use placeholder IDs. To update with real App Store IDs:
 
 ### Method 1: Using the ID Updater (Recommended)
 ```bash
 # 1. Edit update_app_ids.py and replace XXXXXXXXX with real IDs
 # 2. Run the updater
 make update-ids
-```
-
-### Method 2: Manual Update
-1. Visit each app's App Store page
-2. Copy the ID from the URL (e.g., `id6743774763`)
-3. Update the `REAL_APP_IDS` dictionary in `update_app_ids.py`
-4. Run `python3 update_app_ids.py`
-
-**Example:**
-```python
-REAL_APP_IDS = {
-    "Card Value Tracker for Pokemon": "6743774763",  # ✅ Already updated
-    "Anniversary Tracker": "1234567890",  # Update with real ID
-    # ... etc
-}
 ```
 
 ## 🔗 Key URLs
@@ -177,24 +155,23 @@ When deployed, the following URLs are available:
 
 ## 👨‍💻 Professional Features
 
-### Personal Bio Integration
-- Integrated bio from your existing [congl3.github.io](https://congl3.github.io) portfolio
-- Professional journey: iOS Engineer → Backpacker → English Teacher → Back to iOS
-- Unique perspective combining technical skills with global experience
+### Enterprise Experience Showcase
+- **Capital One Leadership**: Highlighting current Principal iOS Developer role
+- **9+ Years Experience**: Comprehensive professional timeline and achievements
+- **Technical Leadership**: Architecture decisions, team mentoring, and process improvements
+- **Large-scale Applications**: Experience with consumer banking apps serving millions
 
-### CV/Resume Page
-- Complete professional resume at `/cv`
-- Technical skills breakdown
-- Project highlights with statistics
-- Professional experience and achievements
-- Career objectives and contact information
+### Personal Project Portfolio
+- **150k+ Downloads**: Demonstrating product development and user acquisition skills
+- **12+ Published Apps**: Showcasing diverse technical skills and App Store success
+- **Real Statistics**: Highlighting measurable success metrics
+- **End-to-end Development**: From concept to App Store success
 
-### Portfolio Design
-- **Mobile-responsive** design
-- **Featured apps section** highlighting your biggest successes
-- **Real statistics** (65k downloads, 4.7 stars, etc.)
-- **Technology tags** for each project
-- **Professional presentation** suitable for job applications
+### CV/Resume Features
+- **Technical Leadership**: Principal-level experience and responsibilities
+- **Enterprise Technologies**: SwiftUI, UIKit, CI/CD, TDD, architecture patterns
+- **Team Collaboration**: Cross-functional team experience and mentoring
+- **Measurable Achievements**: Specific accomplishments and recognition
 
 ## ⚙️ Configuration
 
@@ -209,7 +186,7 @@ When deployed, the following URLs are available:
 
 3. **Verify Contact Email**: Ensure `anniversarytrackerteamcong@gmail.com` is active
 
-4. **Customize CV**: Edit `cv.md` with your specific experience details
+4. **Customize CV**: Edit `cv.md` with any specific experience details
 
 ### GitHub Pages Setup
 
@@ -220,72 +197,57 @@ When deployed, the following URLs are available:
 
 ## 📊 Portfolio Statistics
 
-- **Total Apps**: 15+ iOS applications
-- **Featured App Downloads**: 65k+ (Anniversary Tracker)
+- **Professional Experience**: 9+ years iOS development
+- **Current Role**: Principal iOS Developer at Capital One
+- **Personal Apps**: 12+ iOS applications
+- **Personal Project Downloads**: 150k+ (Anniversary Tracker)
 - **Average Rating**: 4.7+ stars
-- **Categories**: 8 categories across the App Store
-- **Platforms**: iPhone and iPad
-- **Developer**: Published under "Cong Le"
-- **Technologies**: Swift, SwiftUI, Unity, Core Data, etc.
+- **Technologies**: Swift, SwiftUI, UIKit, Objective-C, MVVM, TDD, CI/CD
+- **Leadership**: Team mentoring, architecture decisions, process improvements
 
-## 🛠️ Development
+## 🎯 Professional Target Audience
 
-### Local Development
-```bash
-# Install Jekyll (optional)
-gem install bundler jekyll
+This portfolio is designed for:
+- **Senior/Principal iOS Developer roles** - showcasing technical leadership
+- **iOS Architect positions** - demonstrating architecture and technical decision-making
+- **Team Lead opportunities** - highlighting mentoring and collaboration skills
+- **Enterprise companies** - showing large-scale application experience
+- **Financial services** - demonstrating fintech and banking app experience
 
-# Serve locally
-make serve
-# or
-bundle exec jekyll serve --livereload
-```
+## 📋 Technical Skills Highlighted
 
-### Adding New Apps
-1. Update app data in `update_portfolio.py`
-2. Add real App Store ID to `update_app_ids.py`
-3. Run `make update-portfolio && make update-ids`
-4. Deploy with `make deploy`
+### Enterprise iOS Development
+- **Large-scale Applications** - Capital One consumer banking apps
+- **Legacy Codebase Management** - Modernization and architectural improvements
+- **CI/CD Implementation** - Jenkins, Fastlane, automated deployment
+- **Cross-functional Collaboration** - Working with design, product, QA, backend teams
 
-## 📋 Maintenance Schedule
+### iOS Technologies (Expert Level)
+- **Swift** (9+ years) - Expert-level professional experience
+- **SwiftUI** - Modern declarative UI development
+- **UIKit** - Extensive traditional iOS UI experience
+- **Objective-C** - Legacy codebase maintenance
+- **MVVM/Clean Architecture** - Scalable application design
+- **XCTest/TDD** - Comprehensive testing strategies
 
-### Monthly
-- [ ] Check all links work correctly
-- [ ] Monitor AdMob for `app-ads.txt` status
-- [ ] Run `make status` to verify setup
-- [ ] Update app statistics if significant changes
-
-### Quarterly
-- [ ] Review app list and descriptions
-- [ ] Update portfolio with new apps
-- [ ] Run `make scrape` to get latest data
-- [ ] Update CV with new achievements
-
-### Annually
-- [ ] Review and update privacy policy
-- [ ] Review and update terms and conditions  
-- [ ] Update "Last Updated" dates
-- [ ] Legal compliance review
+### Leadership & Process
+- **Technical Leadership** - Architecture decisions and team guidance
+- **Code Quality** - Review processes and development standards
+- **Team Mentoring** - Supporting junior developers
+- **Process Improvement** - Development workflow optimization
 
 ## 🚨 Important Notes
 
-1. **App Store IDs**: Currently use placeholders - update with real IDs using the updater script
-2. **Legal Compliance**: The privacy policy and terms are templates - consider legal review
-3. **Contact Email**: Ensure `anniversarytrackerteamcong@gmail.com` is monitored
-4. **AdMob Publisher ID**: Must be updated in `app-ads.txt` before going live
-5. **CV Customization**: Edit `cv.md` with your specific details and experience
-
-## 🎯 Professional Use
-
-This portfolio is designed for:
-- **Job Applications** - Complete professional presence
-- **App Store Submissions** - Legal compliance and contact information
-- **Networking** - Professional developer portfolio
-- **Business Development** - Showcase of successful apps with real metrics
+1. **Professional Positioning**: Portfolio emphasizes current Principal iOS Developer role at Capital One
+2. **Technical Leadership**: Highlights architecture, mentoring, and enterprise experience
+3. **Personal Projects**: Showcases entrepreneurial skills alongside professional work
+4. **Contact Information**: Ensure `anniversarytrackerteamcong@gmail.com` is monitored
+5. **App Store IDs**: Currently use placeholders - update with real IDs using the updater script
 
 ## 📞 Support & Contact
 
-**Developer**: Cong Le (@CongLe)  
+**Principal iOS Developer**: Cong Le (@CongLe)  
+**Current Role**: Principal iOS Developer at Capital One  
 **Email**: anniversarytrackerteamcong@gmail.com  
 **Portfolio**: https://teamcong.github.io  
 **Personal Site**: https://congl3.github.io  
@@ -297,4 +259,4 @@ This portfolio template and automation scripts are provided as-is. The legal doc
 
 ---
 
-**⭐ Professional iOS Developer Portfolio - Showcasing 65k+ Downloads and 15+ Quality Apps**
+**⭐ Principal iOS Developer Portfolio - 9+ Years Experience | Capital One | 150k+ App Downloads**

@@ -33,13 +33,13 @@ install:
 # Update portfolio with current data
 update-portfolio:
 	@echo "🚀 Updating portfolio..."
-	python update_portfolio.py
+	python3 update_portfolio.py
 	@echo "✅ Portfolio updated"
 
 # Try to scrape live App Store data
 scrape:
 	@echo "🔍 Scraping App Store data..."
-	python scrape_appstore.py --details --update-md --output apps_data.json
+	python3 scrape_appstore.py --details --update-md --output apps_data.json
 	@echo "✅ Scraping complete"
 
 # Validate markdown files
@@ -127,5 +127,5 @@ status:
 # Update App Store IDs with real ones
 update-ids:
 	@echo "🔄 Updating App Store IDs..."
-	python update_app_ids.py
+	python3 update_app_ids.py
 	@echo "✅ App ID update complete" 

@@ -1,48 +1,56 @@
 ---
-title: TeamCong - iOS Developer Portfolio
+title: Cong Le - Principal iOS Developer
 layout: default
 ---
 
 # Cong Le (@CongLe)
-**iOS Developer Portfolio**
+**Principal iOS Developer at Capital One**
 
-A relaxed and diligent individual. With a mantra of gravitating towards the positive. An iOS Engineer turned into backpacker then into an English teacher. Now looking to re-enter the real world and ready to jump head first back into iOSland.
+Currently leading iOS development at one of the UK's largest digital banks. A seasoned iOS engineer with 9+ years of professional experience building large-scale consumer applications. Passionate about clean architecture, user experience, and mentoring development teams.
 
 ## Quick Links
 
+*   💼 [Professional CV](./cv)
 *   📋 [Privacy Policy](./privacy)
 *   📜 [Terms and Conditions](./terms)
 *   🍎 [My App Store Developer Page](https://apps.apple.com/gb/developer/cong-le/id954373766)
-*   📄 [Download CV](./cv)
 *   💻 [GitHub Projects](https://github.com/CongLe)
 
 ---
 
-## 🌟 Featured Apps
+## 💼 Current Role
+
+**Principal iOS Developer at Capital One** *(Dec 2021 - Present)*
+
+Leading iOS development for one of the UK's most innovative digital banks. Working with large-scale consumer applications serving millions of users.
+
+**Key Achievements:**
+- 🏆 **Highest contributor** to the iOS repository across the entire team
+- 🏗️ **Architecture leadership** - tackling challenges with legacy codebases and modernization
+- 🤝 **Cross-functional collaboration** - working closely with designers, product owners, QA, and services teams
+- 📈 **Continuous improvement** - driving codebase health and development practices
+
+**Technologies:** SwiftUI, UIKit, Swift, Objective-C, MVVM, XCTest, CI/CD (Jenkins/Fastlane), Git
+
+---
+
+## 🌟 Featured Personal Project
 
 ### 🏆 Anniversary Tracker
 **[Download on App Store](https://apps.apple.com/gb/app/anniversary-tracker/id1234567XXX)**
 
-📊 **Over 65k Downloads | 800k Sessions | 1k Ratings at 4.7 ⭐**
+📊 **Over 150k Downloads | 5k Ratings at 4.7 ⭐**
 
-Track the number of days you've been in a relationship. Set your date and it'll tell you how many days it has been. My most successful app with an amazing user base!
+Track the number of days you've been in a relationship. Set your date and it'll tell you how many days it has been. My most successful personal project demonstrating end-to-end product development skills.
 
 **Technologies**: SwiftUI, Core Data, MVVM, Swift  
 **Platform**: iPhone & iPad
 
-### 💕 Couple Days Counter  
-**[Download on App Store](https://apps.apple.com/gb/app/couple-days-counter/id1234567XXX)**
-
-Track milestones in your relationship. Count days since special moments and set reminders for anniversaries. Another popular relationship app!
-
-**Technologies**: Swift, Core Data, Local Notifications  
-**Platform**: iPhone
-
 ---
 
-## My Mobile App Portfolio
+## My Personal App Portfolio
 
-All applications are available on the Apple App Store under **Cong Le**:
+Personal projects developed alongside my professional career, showcasing full-stack iOS development skills:
 
 ### ⏰ Productivity & Time Management
 
@@ -108,99 +116,80 @@ All applications are available on the Apple App Store under **Cong Le**:
     **Technologies**: Swift, Local notifications, Collections Views, Core Data, MVVM
     📱 Platform: iPhone
 
-### 🎮 Unity Games
-
-*   **[Fish Run - Collect stars](https://apps.apple.com/gb/app/fish-run-collect-stars/id1234567XXX)** - Games
-    My first stab at a 2D Unity game. A simple infinity runner with inspiration from the one hit wonder Flappy Bird.
-    **Technologies**: Unity, C#, Aseprite
-    📱 Platform: iPhone
-
-*   **[Run Run Run](https://apps.apple.com/gb/app/run-run-run/id1234567XXX)** - Games
-    Canabalt style infinity runner and my 2nd stab at Unity. Fast-paced action gameplay.
-    **Technologies**: Unity, C#, Aseprite
+*   **[Couple days counter](https://apps.apple.com/gb/app/couple-days-counter/id1234567899)** - Lifestyle
+    Track milestones in your relationship. Count days since special moments and set reminders for anniversaries.
     📱 Platform: iPhone
 
 ---
 
-## 📊 Portfolio Statistics
+## 📊 Professional Profile
 
-📱 **Total Apps**: 15+ published applications  
-🏆 **Top App**: Anniversary Tracker (65k+ downloads, 4.7⭐)  
+📱 **Professional Experience**: 9+ years iOS development  
+🏦 **Current Role**: Principal iOS Developer at Capital One  
+🏆 **Personal Apps**: 12+ published applications (150k+ downloads)  
 🍎 **Platforms**: iPhone, iPad  
-🏪 **Available on**: Apple App Store  
-⭐ **Focus Areas**: Productivity, Utilities, Photo/Video, Lifestyle, Games  
+⭐ **Specializations**: Large-scale apps, SwiftUI, Architecture, Team Leadership  
 
-## 🚀 Development Journey
+## 🚀 Technical Leadership
 
-### Background
-An iOS Engineer who took an unconventional path - from coding to backpacking around the world, then teaching English, and now ready to jump head first back into iOS development. This diverse experience brings a unique perspective to app development and user experience design.
+### Enterprise iOS Development
+- **Large-scale applications** serving millions of users at Capital One
+- **Legacy codebase modernization** and architectural improvements
+- **Cross-functional team collaboration** with designers, product, QA, and backend teams
+- **CI/CD pipeline optimization** using Jenkins and Fastlane
+- **Code quality initiatives** and development process improvements
 
-### Technical Approach
-- **User-Centric Design**: Clean, intuitive interfaces that prioritize usability
-- **Quality Focus**: Thoroughly tested applications with regular updates
-- **Privacy First**: Respecting user privacy with transparent data practices
-- **Real Solutions**: Building apps that solve actual problems for real users
+### Technical Expertise
+- **9+ years professional iOS experience** across multiple companies
+- **Architecture patterns** - MVVM, Clean Architecture, modular design
+- **Modern iOS development** - SwiftUI, Combine, async/await, Core Data
+- **Legacy support** - UIKit, Objective-C, mixed codebases
+- **Testing & Quality** - XCTest, TDD practices, automated testing
+- **Team leadership** - mentoring, code reviews, technical decision making
 
-## 💻 Technical Skills
+## 💻 Core Technologies
 
 ### Languages & Frameworks
-- **Swift** - Primary iOS development language
-- **SwiftUI** - Modern declarative UI framework
-- **UIKit** - Traditional iOS UI framework
-- **Objective-C** - Legacy iOS support
-- **C#** - Unity game development
+- **Swift** (Expert) - 9+ years professional experience
+- **SwiftUI** (Advanced) - Modern declarative UI development
+- **UIKit** (Expert) - Extensive experience with traditional iOS UI
+- **Objective-C** (Advanced) - Legacy codebase maintenance and integration
 
-### iOS Technologies
-- **Core Data** - Local data persistence
-- **CloudKit** - iCloud integration
-- **Local Notifications** - User engagement
-- **Collection Views** - Dynamic layouts
-- **MVVM Architecture** - Clean code organization
+### Architecture & Testing
+- **MVVM** - Preferred architecture for scalable applications
+- **XCTest** - Comprehensive unit and integration testing
+- **TDD** - Test-driven development practices
+- **Clean Architecture** - Separation of concerns and maintainable code
 
-### Tools & Platforms
-- **Xcode** - Primary development environment
-- **Instruments** - Performance profiling
-- **TestFlight** - Beta testing
-- **Unity** - Game development
-- **Aseprite** - Pixel art creation
+### Enterprise Tools
+- **Git** (Expert) - Version control and collaborative development
+- **Jenkins/Fastlane** - CI/CD pipeline development and maintenance
+- **Agile/Scrum** - Cross-functional team delivery methodologies
+- **JIRA/Confluence** - Project management and documentation
 
-### Development Patterns
-- **MVVM** - Model-View-ViewModel architecture
-- **Core Data** - Data management
-- **Local Notifications** - User engagement
-- **Collection Views** - Dynamic content display
+## 🎨 Development Philosophy
 
-## 🎨 Mock Projects & Experiments
+As a Principal iOS Developer, I focus on:
 
-I regularly work on experimental projects and tutorials to stay current with iOS development trends. These include:
-
-- **Social Media Apps** - Twitter-like interfaces
-- **Utility Apps** - JSON parsers and development tools
-- **UI Experiments** - Testing new SwiftUI features
-- **Learning Projects** - Following tutorials and best practices
-
-*More details and source code available on [GitHub](https://github.com/CongLe)*
-
-## 📄 CV Download
-
-**Ready to discuss opportunities?**
-
-[📄 Download my CV/Resume](./cv)
-*Updated with latest iOS development experience and project portfolio*
+- **User-Centric Design**: Creating intuitive experiences that delight users
+- **Code Quality**: Writing maintainable, testable, and scalable code
+- **Team Collaboration**: Mentoring developers and driving technical excellence
+- **Continuous Learning**: Staying current with iOS best practices and emerging technologies
 
 ## 🌐 App Store Presence
 
-All applications are published under **Cong Le** on the Apple App Store. Each app is designed with attention to Apple's Human Interface Guidelines and App Store Review Guidelines.
+Personal projects demonstrate end-to-end product development skills alongside professional work. All applications are published under **Cong Le** on the Apple App Store.
 
 🔗 **View all apps**: [Apple App Store Developer Page](https://apps.apple.com/gb/developer/cong-le/id954373766)
 
 ---
 
-## 📞 Contact & Collaboration
+## 📞 Professional Contact
 
-**Ready to create amazing iOS apps together?**
+**Ready to discuss senior iOS development opportunities?**
 
 - **Email**: anniversarytrackerteamcong@gmail.com
+- **Professional CV**: [Download CV](./cv)
 - **Portfolio**: [https://teamcong.github.io](https://teamcong.github.io)
 - **Personal Site**: [https://congl3.github.io](https://congl3.github.io)
 - **App Store**: [Developer Profile](https://apps.apple.com/gb/developer/cong-le/id954373766)
@@ -213,4 +202,4 @@ All applications are published under **Cong Le** on the Apple App Store. Each ap
 
 Find our `app-ads.txt` file [here](./app-ads.txt) for advertising network verification.
 
-*This portfolio showcases my journey as an iOS developer, from successful published apps to experimental projects. Ready to bring creativity and technical expertise to your next iOS project!* 
+*Principal iOS Developer with 9+ years of experience building large-scale consumer applications. Currently leading iOS development at Capital One, with a passion for clean architecture, team leadership, and exceptional user experiences.* 
