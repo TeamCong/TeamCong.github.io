@@ -106,7 +106,7 @@ For each of the 23 TeamCong apps, update the following:
 
 1. **Legal Compliance**: The privacy policy and terms are templates. Consider legal review for compliance with GDPR, CCPA, and app store policies.
 
-2. **Contact Email**: Ensure `support@teamcong.dev` is active before going live.
+2. **Contact Email**: Ensure `anniversarytrackerteamcong@gmail.com` is active before going live.
 
 3. **Publisher ID**: The `app-ads.txt` file MUST be updated with your real AdMob Publisher ID before deployment.
 
