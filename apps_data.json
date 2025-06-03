@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Sunrise & Sunset tracker",
+    "category": "Weather",
+    "platform": "iPad & iPhone",
+    "description": "Track sunrise and sunset times for any location. Perfect for photographers, outdoor enthusiasts, and anyone who wants to plan their day around natural light.",
+    "app_store_url": "https://apps.apple.com/gb/app/sunrise-sunset-tracker/id1234567900",
+    "icon_url": "",
+    "app_id": "1234567900"
+  },
+  {
+    "name": "VidCompression",
+    "category": "Photo & Video",
+    "platform": "iPad & iPhone",
+    "description": "Compress your videos efficiently while maintaining quality. Reduce file sizes for easy sharing without sacrificing visual fidelity.",
+    "app_store_url": "https://apps.apple.com/gb/app/vidcompression/id1234567890",
+    "icon_url": "",
+    "app_id": "1234567890"
+  },
+  {
+    "name": "Photo Image Compression",
+    "category": "Photo & Video",
+    "platform": "iPad & iPhone",
+    "description": "Reduce image file sizes without losing quality. Perfect for social media sharing, email attachments, and storage optimization.",
+    "app_store_url": "https://apps.apple.com/gb/app/photo-image-compression/id1234567891",
+    "icon_url": "",
+    "app_id": "1234567891"
+  },
+  {
+    "name": "Birthday Tracker and Reminders",
+    "category": "Utilities",
+    "platform": "iPad & iPhone",
+    "description": "Never forget important birthdays and anniversaries. Set custom reminders and keep track of all your loved ones' special days.",
+    "app_store_url": "https://apps.apple.com/gb/app/birthday-tracker-and-reminders/id1234567892",
+    "icon_url": "",
+    "app_id": "1234567892"
+  },
+  {
+    "name": "Lullaby Pal - White Noise",
+    "category": "Utilities",
+    "platform": "iPad & iPhone",
+    "description": "Soothing sounds for better sleep and relaxation. Choose from a variety of ambient sounds to help you fall asleep faster.",
+    "app_store_url": "https://apps.apple.com/gb/app/lullaby-pal-white-noise/id1234567893",
+    "icon_url": "",
+    "app_id": "1234567893"
+  },
+  {
+    "name": "Driving Theory Test UK 2025",
+    "category": "Education",
+    "platform": "iPad & iPhone",
+    "description": "Prepare for your UK driving theory test with comprehensive practice questions and mock exams. Updated for 2025 requirements.",
+    "app_store_url": "https://apps.apple.com/gb/app/driving-theory-test-uk-2025/id1234567901",
+    "icon_url": "",
+    "app_id": "1234567901"
+  },
+  {
+    "name": "Pomodoro timer: Focus",
+    "category": "Productivity",
+    "platform": "iPhone",
+    "description": "Boost productivity with proven time management techniques. Break work into focused intervals with customizable break periods.",
+    "app_store_url": "https://apps.apple.com/gb/app/pomodoro-timer-focus/id1234567896",
+    "icon_url": "",
+    "app_id": "1234567896"
+  },
+  {
+    "name": "Mortgage Calculator - Learn",
+    "category": "Finance",
+    "platform": "iPhone",
+    "description": "Calculate mortgage payments and learn about home financing. Includes amortization schedules and educational content.",
+    "app_store_url": "https://apps.apple.com/gb/app/mortgage-calculator-learn/id1234567897",
+    "icon_url": "",
+    "app_id": "1234567897"
+  },
+  {
+    "name": "Card Value Tracker for Pokemon",
+    "category": "Entertainment",
+    "platform": "iPhone",
+    "description": "Track and manage your Pokemon card collection values. Stay up-to-date with current market prices and organize your collection.",
+    "app_store_url": "https://apps.apple.com/gb/app/card-value-tracker-for-pokemon/id1234567898",
+    "icon_url": "",
+    "app_id": "1234567898"
+  },
+  {
+    "name": "Link Saver - fast and easy",
+    "category": "Utilities",
+    "platform": "iPhone",
+    "description": "Save and organize important links efficiently. Quick bookmarking with categories and search functionality.",
+    "app_store_url": "https://apps.apple.com/gb/app/link-saver-fast-and-easy/id1234567894",
+    "icon_url": "",
+    "app_id": "1234567894"
+  },
+  {
+    "name": "Couple days counter",
+    "category": "Lifestyle",
+    "platform": "iPhone",
+    "description": "Track milestones in your relationship. Count days since special moments and set reminders for anniversaries.",
+    "app_store_url": "https://apps.apple.com/gb/app/couple-days-counter/id1234567899",
+    "icon_url": "",
+    "app_id": "1234567899"
+  },
+  {
+    "name": "To Do List - One focus",
+    "category": "Utilities",
+    "platform": "iPhone",
+    "description": "Minimalist task management with single-focus approach. Reduce overwhelm by focusing on one task at a time.",
+    "app_store_url": "https://apps.apple.com/gb/app/to-do-list-one-focus/id1234567895",
+    "icon_url": "",
+    "app_id": "1234567895"
+  }
+]

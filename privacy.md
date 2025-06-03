@@ -5,7 +5,7 @@ layout: default
 
 # Privacy Policy for TeamCong Apps
 
-**Last Updated: December 17, 2024**
+**Last Updated: June 3, 2025**
 
 This Privacy Policy describes how TeamCong ("we," "us," or "our") collects, uses, and shares information in connection with your use of our mobile applications (collectively, the "Apps"). This policy applies to all mobile applications published by TeamCong.
 
@@ -65,6 +65,6 @@ We may update this Privacy Policy from time to time. We will notify you of any c
 ## 9. Contact Us
 
 If you have any questions about this Privacy Policy, please contact us at:
-**support@teamcong.dev**
+**anniversarytrackerteamcong@gmail.com**
 
 --- 

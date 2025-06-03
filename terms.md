@@ -5,7 +5,7 @@ layout: default
 
 # Terms and Conditions for TeamCong Apps
 
-**Last Updated: December 17, 2024**
+**Last Updated: June 3, 2025**
 
 Please read these Terms and Conditions ("Terms", "Terms and Conditions") carefully before using any mobile application (the "Service" or "App") operated by TeamCong ("us", "we", or "our").
 
@@ -72,6 +72,6 @@ By continuing to access or use our Service after those revisions become effectiv
 ## 11. Contact Us
 
 If you have any questions about these Terms, please contact us at:
-**support@teamcong.dev**
+**anniversarytrackerteamcong@gmail.com**
 
 --- 

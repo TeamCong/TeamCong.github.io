@@ -1,122 +1,249 @@
-# TeamCong GitHub Pages
+# TeamCong Portfolio & GitHub Pages
 
-This repository hosts the official GitHub Pages site for TeamCong at [https://teamcong.github.io](https://teamcong.github.io).
+**Professional mobile app developer portfolio hosted on GitHub Pages**
 
-## Purpose
+🌐 **Live Site**: [https://teamcong.github.io](https://teamcong.github.io)  
+🍎 **App Store**: [Cong Le Developer Profile](https://apps.apple.com/gb/developer/cong-le/id954373766)
 
-This site serves as the central hub for:
+## 🎯 Purpose
 
-- **`app-ads.txt`** - Ad network authorization file for Google AdMob and other advertising partners
-- **Privacy Policy** - Comprehensive privacy policy for all TeamCong mobile applications
-- **Terms and Conditions** - Terms of service for all TeamCong mobile applications
-- **App Portfolio** - Showcase of all TeamCong mobile applications
+This repository serves multiple purposes:
 
-## Site Structure
+- **📱 Portfolio**: Professional showcase of all TeamCong mobile applications
+- **📋 Legal Hub**: Privacy Policy and Terms & Conditions for all apps
+- **📺 Ad Network**: `app-ads.txt` file for AdMob and other advertising partners
+- **🔗 Central Reference**: Canonical URLs for app submissions and legal compliance
+
+## 📁 Repository Structure
 
 ```
-├── app-ads.txt          # Ad network authorization
-├── privacy.md           # Privacy policy page
-├── terms.md             # Terms and conditions page
-├── index.md             # Main landing page
-├── _config.yml          # Jekyll configuration
-├── .cursorrules         # Development guidelines
-└── README.md            # This file
+├── index.md                    # Main portfolio page
+├── privacy.md                  # Privacy policy for all apps
+├── terms.md                    # Terms and conditions for all apps
+├── app-ads.txt                 # Ad network authorization file
+├── _config.yml                 # Jekyll configuration
+├── .cursorrules               # Development guidelines
+├── scrape_appstore.py         # App Store data scraper
+├── update_portfolio.py        # Portfolio update automation
+├── requirements.txt           # Python dependencies
+├── Makefile                   # Automation commands
+├── DEPLOYMENT_CHECKLIST.md    # Deployment guide
+└── README.md                  # This file
 ```
 
-## Key URLs
+## 🚀 Quick Start
 
-- **Main Site**: https://teamcong.github.io/
-- **Privacy Policy**: https://teamcong.github.io/privacy
-- **Terms & Conditions**: https://teamcong.github.io/terms
-- **App-Ads.txt**: https://teamcong.github.io/app-ads.txt
+### Option 1: Using Make (Recommended)
+```bash
+# Install dependencies and update portfolio
+make setup
 
-## Maintenance Tasks
+# Update portfolio with latest app data
+make update-portfolio
 
-### Before Publishing
+# Deploy to GitHub Pages
+make deploy
+```
+
+### Option 2: Manual Setup
+```bash
+# Install Python dependencies
+pip install -r requirements.txt
+
+# Update portfolio with current app data
+python update_portfolio.py
+
+# Deploy changes
+git add .
+git commit -m "feat: Update portfolio"
+git push origin main
+```
+
+## 📱 App Portfolio
+
+The portfolio currently showcases **12 published iOS applications**:
+
+### 📸 Photo & Video Apps
+- **VidCompression** - Video compression tool
+- **Photo Image Compression** - Image optimization
+
+### 🛠️ Utilities & Productivity  
+- **Birthday Tracker and Reminders** - Birthday management
+- **Lullaby Pal - White Noise** - Sleep sounds
+- **Link Saver - fast and easy** - Bookmark management
+- **To Do List - One focus** - Minimalist task management
+
+### ⏰ Productivity & Time Management
+- **Pomodoro timer: Focus** - Time management
+
+### 💰 Finance & Calculations
+- **Mortgage Calculator - Learn** - Financial calculations
+
+### 🎮 Entertainment
+- **Card Value Tracker for Pokemon** - Trading card management
+
+### 💕 Lifestyle
+- **Couple days counter** - Relationship milestones
+
+### 🌅 Weather & Information
+- **Sunrise & Sunset tracker** - Solar tracking
+
+### 🚗 Education
+- **Driving Theory Test UK 2025** - UK driving test prep
+
+## 🔧 Automation Features
+
+### Portfolio Updates
+The system includes automated tools to keep the portfolio current:
+
+- **`scrape_appstore.py`**: Scrapes live App Store data
+- **`update_portfolio.py`**: Updates portfolio with current app information
+- **`Makefile`**: Provides easy command-line automation
+
+### Available Commands
+```bash
+make help              # Show all available commands
+make install           # Install dependencies
+make update-portfolio  # Update with current app data
+make scrape           # Scrape live App Store data
+make validate         # Validate markdown files
+make deploy           # Deploy to GitHub Pages
+make status           # Show current portfolio status
+make serve            # Start local development server
+```
+
+## 🔗 Key URLs
+
+When deployed, the following URLs are available:
+
+- **Portfolio**: `https://teamcong.github.io/`
+- **Privacy Policy**: `https://teamcong.github.io/privacy`
+- **Terms & Conditions**: `https://teamcong.github.io/terms`
+- **App-Ads.txt**: `https://teamcong.github.io/app-ads.txt`
+
+## ⚙️ Configuration
+
+### Before Deployment
 
 1. **Update `app-ads.txt`**:
-   - Replace `pub-0000000000000000` with your actual Google AdMob Publisher ID
-   - Add any additional ad network entries as needed
+   ```
+   # Replace with your actual Google AdMob Publisher ID
+   google.com, pub-YOUR_ACTUAL_PUBLISHER_ID, DIRECT, f08c47fec0942fa0
+   ```
 
-2. **Verify Contact Information**:
-   - Ensure `support@teamcong.dev` email is active and monitored
-   - Update any other contact details as needed
+2. **Verify Contact Email**:
+   - Ensure `anniversarytrackerteamcong@gmail.com` is active
+   - Update in all files if needed
 
-3. **Review Legal Documents**:
-   - Have privacy policy and terms reviewed by legal counsel if required
+3. **Legal Review**:
+   - Have privacy policy and terms reviewed by legal counsel
    - Ensure compliance with GDPR, CCPA, and app store policies
 
-### Regular Maintenance
+### GitHub Pages Setup
 
-- **Monthly**: Check that all links work correctly
-- **Quarterly**: Review app list and update descriptions
-- **Annually**: Review and update privacy policy and terms as needed
-- **As Needed**: Update `app-ads.txt` when changing ad networks
+1. Create repository named `TeamCong.github.io` under your organization
+2. Set repository to **Public** visibility
+3. Go to Settings → Pages
+4. Set source to "Deploy from a branch" 
+5. Set branch to `main` and folder to `/ (root)`
+6. Push all files to main branch
 
-## Development
+## 📊 Portfolio Features
 
-This site uses Jekyll and GitHub Pages. Changes pushed to the `main` branch are automatically deployed.
+### Professional Presentation
+- Clean, modern design optimized for mobile and desktop
+- Organized by app categories with emoji icons
+- Direct links to App Store listings
+- Platform indicators (iPhone/iPad)
+- App descriptions and key features
 
-### Local Development (Optional)
+### SEO Optimized
+- Proper Jekyll front matter and metadata
+- Search engine friendly URLs
+- Social media meta tags
+- Structured data for better indexing
 
+### Easy Maintenance
+- Automated data updates from App Store
+- Version-controlled documentation
+- Simple deployment process
+- Comprehensive checklists
+
+## 🔄 Updating Your Apps
+
+After deployment, update each app to use these URLs:
+
+### In App Store Connect:
+- Privacy Policy URL: `https://teamcong.github.io/privacy`
+- Terms & Conditions URL: `https://teamcong.github.io/terms`
+
+### In App Code (if applicable):
+- Update hardcoded policy links in settings screens
+- Test links in development builds
+- Submit app updates where necessary
+
+## 🛠️ Development
+
+### Local Development
 ```bash
-# Install Jekyll and dependencies
+# Install Jekyll (optional)
 gem install bundler jekyll
 
-# Serve locally (if you want to preview changes)
-bundle exec jekyll serve
+# Serve locally
+make serve
+# or
+bundle exec jekyll serve --livereload
 ```
 
-### Making Changes
+### Adding New Apps
+1. Update the app data in `update_portfolio.py`
+2. Run `make update-portfolio`
+3. Review changes and deploy
 
-1. Edit the relevant Markdown files
-2. Commit and push to the `main` branch
-3. Changes will be live within a few minutes at https://teamcong.github.io
+### Updating Content
+1. Edit relevant markdown files
+2. Run `make validate` to check syntax
+3. Deploy with `make deploy`
 
-## App Integration
+## 📋 Maintenance Schedule
 
-When integrating these URLs into your mobile applications:
+### Monthly
+- [ ] Check all links work correctly
+- [ ] Monitor AdMob for `app-ads.txt` status
+- [ ] Run `make status` to verify setup
 
-### Privacy Policy Links
-Update your apps to use: `https://teamcong.github.io/privacy`
+### Quarterly
+- [ ] Review app list and descriptions
+- [ ] Update portfolio with new apps
+- [ ] Run `make scrape` to get latest data
 
-### Terms and Conditions Links  
-Update your apps to use: `https://teamcong.github.io/terms`
+### Annually
+- [ ] Review and update privacy policy
+- [ ] Review and update terms and conditions  
+- [ ] Update "Last Updated" dates
+- [ ] Legal compliance review
 
-## Apps Covered by These Policies
+## 🚨 Important Notes
 
-This site provides policies for all TeamCong applications:
+1. **Legal Compliance**: The privacy policy and terms are templates. Consider legal review for compliance with applicable laws.
 
-- Fish Scanner AI Identifier
-- Anniversary Tracker
-- Card Value Tracker for Pokemon
-- Pomodoro timer: Focus
-- Baby Kicks: Track Movements
-- Link Saver - fast and easy
-- Couple days counter
-- Mortgage Calculator - Learn
-- Simplest Stopwatch and Timer
-- to do リスト - やること管理アプリ
-- Birthday Tracker and Reminders
-- Learn Japanese
-- Othello boardgame
-- Sunrise & Sunset tracker
-- Photo Image Compression
-- VidCompression
-- Lullaby Pal - White Noise
-- Countdown Tracker Reminders
-- Driving Theory Test UK 2025
-- Solitaire - TEAMCONG
-- Fish Run - Collect stars
-- Run Run Run
-- Water them plants
+2. **Contact Email**: Ensure `anniversarytrackerteamcong@gmail.com` is active before going live.
 
-## Legal Disclaimer
+3. **Publisher ID**: The `app-ads.txt` file MUST be updated with your real AdMob Publisher ID.
 
-The legal documents in this repository are templates and starting points. They should be reviewed by qualified legal counsel to ensure compliance with all applicable laws and regulations in your jurisdiction.
+4. **App Store URLs**: Currently use placeholder IDs. Update with actual App Store IDs when available.
 
-## Support
+## 📞 Support & Contact
 
-For questions about this site or TeamCong applications:
-- **Email**: support@teamcong.dev
-- **Website**: https://teamcong.github.io
+**Developer**: Cong Le  
+**Email**: anniversarytrackerteamcong@gmail.com  
+**Portfolio**: https://teamcong.github.io  
+**App Store**: [Developer Profile](https://apps.apple.com/gb/developer/cong-le/id954373766)
+
+## 📄 License
+
+This portfolio template and automation scripts are provided as-is. The legal documents should be reviewed by qualified legal counsel for your specific use case.
+
+---
+
+**⭐ Professional iOS Developer Portfolio - Showcasing Quality Mobile Applications**
