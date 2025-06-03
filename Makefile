@@ -1,7 +1,7 @@
 # TeamCong Portfolio Makefile
 # Provides easy commands for portfolio management
 
-.PHONY: help install update-portfolio scrape validate deploy clean
+.PHONY: help install update-portfolio scrape validate deploy clean update-ids
 
 # Default target
 help:
@@ -11,6 +11,7 @@ help:
 	@echo "Available commands:"
 	@echo "  make install          - Install Python dependencies"
 	@echo "  make update-portfolio - Update portfolio with current app data"
+	@echo "  make update-ids       - Update App Store IDs (after configuring real IDs)"
 	@echo "  make scrape          - Scrape App Store data (if available)"
 	@echo "  make validate        - Validate markdown files"
 	@echo "  make deploy          - Deploy to GitHub Pages (git push)"
@@ -18,6 +19,10 @@ help:
 	@echo ""
 	@echo "Quick start:"
 	@echo "  make install && make update-portfolio"
+	@echo ""
+	@echo "To update App Store IDs:"
+	@echo "  1. Edit update_app_ids.py with real App Store IDs"
+	@echo "  2. Run: make update-ids"
 
 # Install Python dependencies
 install:
@@ -117,4 +122,10 @@ status:
 	@echo "  Main site: https://teamcong.github.io/"
 	@echo "  Privacy:   https://teamcong.github.io/privacy"
 	@echo "  Terms:     https://teamcong.github.io/terms"
-	@echo "  app-ads:   https://teamcong.github.io/app-ads.txt" 
+	@echo "  app-ads:   https://teamcong.github.io/app-ads.txt"
+
+# Update App Store IDs with real ones
+update-ids:
+	@echo "🔄 Updating App Store IDs..."
+	python update_app_ids.py
+	@echo "✅ App ID update complete" 
