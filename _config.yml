@@ -1,0 +1,62 @@
+# Site settings
+title: TeamCong - Mobile App Development
+description: >- # This means to ignore newlines until "baseurl:"
+  TeamCong creates high-quality mobile applications for iOS focusing on productivity,
+  entertainment, utilities, and lifestyle apps. Privacy-focused development with
+  excellent user experience.
+
+baseurl: "" # The subpath of your site, if applicable
+url: "https://teamcong.github.io" # The base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+theme: minima
+
+# GitHub Pages compatibility
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Site metadata
+author: TeamCong
+email: support@teamcong.dev
+twitter_username: # Add if you have Twitter
+github_username: TeamCong
+
+# Navigation
+header_pages:
+  - privacy.md
+  - terms.md
+
+# SEO settings
+lang: en_US
+google_analytics: # Add your GA tracking ID if you have one
+
+# Exclude from processing
+exclude:
+  - .gitignore
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+
+# Collections (if needed in the future)
+collections:
+  apps:
+    output: false
+
+# Default layouts for different content types
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post" 
