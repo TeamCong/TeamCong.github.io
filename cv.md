@@ -7,7 +7,8 @@ layout: default
 **Principal iOS Developer**
 
 📧 anniversarytrackerteamcong@gmail.com  
-🌐 [https://teamcong.github.io](https://teamcong.github.io)  
+🌐 [Professional Portfolio](./portfolio) - Career-focused profile  
+🏢 [TeamCong Apps](./index) - Company landing page  
 🍎 [App Store Developer](https://apps.apple.com/gb/developer/cong-le/id954373766)  
 💻 [GitHub: @CongLe](https://github.com/CongLe)  
 🐦 [Twitter: @CongLe](https://twitter.com/CongLe)  

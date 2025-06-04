@@ -1,19 +1,27 @@
-# 🚀 Deploy Your Principal iOS Developer Portfolio NOW!
+# 🚀 Deploy Your Dual-Purpose Portfolio NOW!
 
-## ✅ What's Ready
+## ✅ What's Ready - Smart Dual Structure
 
-Your **Principal iOS Developer portfolio** is now complete and ready for immediate deployment. Here's what you have:
+Your portfolio now has a **perfect dual-page structure** for maximum effectiveness:
 
-### 💼 Professional Portfolio
+### 🏢 Company Landing Page (`index.md`)
+**Perfect for App Store Support URL**: `https://teamcong.github.io`
+- **TeamCong brand focus** - Professional company presence
+- **All 12+ apps showcased** with categories and descriptions
+- **Customer support information** - Help and contact details
+- **Legal compliance** - Direct links to privacy/terms
+- **Clean, professional** - Perfect for app users visiting support URL
+
+### 💼 Professional Portfolio (`portfolio.md`) 
+**Perfect for Career Opportunities**: `https://teamcong.github.io/portfolio`
 - **Principal iOS Developer at Capital One** prominently featured
 - **9+ years of professional experience** highlighted
-- **150k+ downloads** on Anniversary Tracker showcased
-- **12+ personal apps** demonstrating diverse skills
 - **Technical leadership** and architecture experience emphasized
+- **150k+ downloads** demonstrating product success
+- **Career-focused contact** - Professional networking
 
-### 📄 Complete Professional Package
-- **Main Portfolio** (`index.md`) - Professional showcase
-- **Comprehensive CV** (`cv.md`) - Ready for job applications
+### 📄 Supporting Documents
+- **Complete CV** (`cv.md`) - Ready for job applications  
 - **Legal Documents** - Privacy policy and terms for apps
 - **Professional Contact** - All links and information updated
 
@@ -22,7 +30,7 @@ Your **Principal iOS Developer portfolio** is now complete and ready for immedia
 ### 1. Push to GitHub (2 minutes)
 ```bash
 git add .
-git commit -m "feat: Complete Principal iOS Developer portfolio"
+git commit -m "feat: Implement dual-page structure - company landing + professional portfolio"
 git push origin main
 ```
 
@@ -33,26 +41,79 @@ git push origin main
 4. Save
 
 ### 3. Wait 5 minutes
-Your site will be live at `https://teamcong.github.io`
+Your sites will be live:
+- **Company Landing**: `https://teamcong.github.io`
+- **Professional Portfolio**: `https://teamcong.github.io/portfolio`
 
-## 🎯 What Employers Will See
+## 🎯 Perfect for Both Audiences
 
-### Professional Excellence
+### App Store Users (Company Landing)
+**URL**: `https://teamcong.github.io` 
+- Professional company presence (TeamCong)
+- All apps clearly organized and discoverable
+- Support contact and help information
+- Legal policies easily accessible
+- Clean, user-friendly experience
+
+### Employers & Recruiters (Professional Portfolio)  
+**URL**: `https://teamcong.github.io/portfolio`
 - **Current Role**: Principal iOS Developer at Capital One
 - **Experience**: 9+ years in enterprise iOS development
 - **Leadership**: Highest contributor, architecture decisions, team mentoring
-- **Success**: Large-scale banking apps serving millions of users
+- **Success**: Large-scale banking apps + 150k+ personal downloads
 
-### Technical Expertise
-- **Languages**: Swift (Expert), Objective-C, SwiftUI, UIKit
-- **Architecture**: MVVM, Clean Architecture, TDD, CI/CD
-- **Leadership**: Cross-functional collaboration, process improvement
-- **Enterprise**: Jenkins/Fastlane, Git, Agile, JIRA
+## 📱 Perfect App Store Setup
 
-### Personal Projects Success
-- **Anniversary Tracker**: 150k+ downloads, 5k ratings at 4.7⭐
-- **12+ Apps**: Diverse portfolio showing end-to-end development
-- **App Store Success**: Proven ability to ship quality products
+### Update Your Apps
+Use this **Support URL** in App Store Connect for all your apps:
+```
+https://teamcong.github.io
+```
+
+**Why it's perfect:**
+- ✅ Professional company branding
+- ✅ All apps showcased together  
+- ✅ Clear support contact information
+- ✅ Direct links to privacy/terms
+- ✅ Builds trust with users and Apple
+
+### Privacy & Terms URLs
+Update your apps to use:
+- **Privacy**: `https://teamcong.github.io/privacy`
+- **Terms**: `https://teamcong.github.io/terms`
+
+## 🏆 Best of Both Worlds
+
+### For App Business
+1. **Professional Company Image** - TeamCong branding builds trust
+2. **Customer Support** - Clear help and contact information  
+3. **App Discovery** - Users can find all your other apps
+4. **Legal Compliance** - Privacy/terms easily accessible
+5. **Revenue Growth** - Cross-promotion between apps
+
+### For Career Development
+1. **Principal Developer Positioning** - Leadership role highlighted
+2. **Technical Expertise** - 9+ years enterprise experience
+3. **Proven Success** - Both professional and personal achievements
+4. **Complete Profile** - Portfolio, CV, and project links
+5. **Professional Network** - Ready for career opportunities
+
+## 🚀 You're Ready!
+
+Your dual-page structure now perfectly serves:
+- ✅ **App Store customers** with professional company landing page
+- ✅ **Potential employers** with focused professional portfolio
+- ✅ **Business growth** through better app presentation
+- ✅ **Career advancement** through targeted professional showcase
+
+**Deploy now and leverage both opportunities!**
+
+---
+
+**URLs When Live:**
+- 🏢 **Company**: https://teamcong.github.io (App Support URL)
+- 💼 **Portfolio**: https://teamcong.github.io/portfolio (Career opportunities)
+- 📄 **CV**: https://teamcong.github.io/cv (Job applications)
 
 ## 🔧 Quick Improvements (Optional)
 
@@ -83,15 +144,6 @@ Your portfolio is optimized for:
 3. **Enterprise Scale** - Large banking apps, millions of users
 4. **Personal Success** - 150k+ downloads proving product skills
 5. **Complete Package** - Technical depth + leadership + product sense
-
-## 🚀 You're Ready!
-
-Your portfolio now perfectly positions you as a **Principal iOS Developer** with:
-- ✅ **9+ years professional experience**
-- ✅ **Current leadership role at Capital One**  
-- ✅ **Personal app success (150k+ downloads)**
-- ✅ **Technical expertise across modern and legacy iOS**
-- ✅ **Proven team leadership and mentoring**
 
 **Deploy now and start showcasing your impressive career!**
 

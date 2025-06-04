@@ -21,7 +21,7 @@
 
 ### 2. Critical Updates Required
 - [ ] **UPDATE `app-ads.txt`**: Replace `pub-0000000000000000` with your actual Google AdMob Publisher ID
-- [ ] **VERIFY email**: Ensure `support@teamcong.dev` is active and monitored
+- [ ] **VERIFY email**: Ensure `anniversarytrackerteamcong@gmail.com` is active and monitored
 - [ ] **LEGAL REVIEW**: Have privacy policy and terms reviewed by legal counsel (recommended)
 
 ### 3. GitHub Pages Configuration

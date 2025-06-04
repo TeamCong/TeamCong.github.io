@@ -9,33 +9,44 @@
 
 ## 🎯 Purpose
 
-This repository serves as a comprehensive professional portfolio for:
+This repository serves dual purposes with a smart page structure:
 
-- **💼 Professional Showcase**: Highlighting 9+ years of iOS development experience at Capital One and other companies
-- **🏆 Technical Leadership**: Demonstrating architecture skills, team leadership, and enterprise-scale development
-- **📱 Personal Projects**: Showcasing personal app development skills with 150k+ downloads
-- **📋 Legal Compliance**: Privacy Policy and Terms & Conditions for personal apps
-- **📺 Ad Network**: `app-ads.txt` file for AdMob and other advertising partners
-- **📄 Professional CV**: Complete resume highlighting technical leadership and achievements
+### 🏢 Company Landing Page (`index.md`)
+- **TeamCong App Showcase**: Perfect Support URL for App Store apps
+- **Customer Support**: Help and contact information for app users
+- **App Discovery**: All 12+ apps organized by category
+- **Legal Compliance**: Links to privacy policy and terms
+
+### 💼 Professional Portfolio (`portfolio.md`)  
+- **Career Showcase**: Highlighting 9+ years of iOS development experience
+- **Technical Leadership**: Demonstrating architecture skills and enterprise-scale development
+- **Professional Contact**: Targeted at employers and career opportunities
+- **Achievement Focus**: Principal-level role, team leadership, 150k+ downloads
+
+**Additional Pages:**
+- **📄 Professional CV** (`cv.md`): Complete resume for job applications
+- **📋 Legal Documents**: Privacy Policy and Terms & Conditions
+- **📺 Ad Network**: `app-ads.txt` file for AdMob integration
 
 ## 📁 Repository Structure
 
 ```
-├── index.md                    # Main portfolio showcasing professional experience
-├── cv.md                       # Comprehensive professional CV/Resume  
-├── privacy.md                  # Privacy policy for personal apps
-├── terms.md                    # Terms and conditions for personal apps
-├── app-ads.txt                 # Ad network authorization file
-├── _config.yml                 # Jekyll configuration
-├── .cursorrules               # Development guidelines
-├── scrape_appstore.py         # App Store data scraper
-├── update_portfolio.py        # Portfolio update automation
-├── update_app_ids.py          # App Store ID updater
-├── requirements.txt           # Python dependencies
-├── Makefile                   # Automation commands
-├── DEPLOYMENT_CHECKLIST.md    # Deployment guide
-├── FINAL_DEPLOYMENT_GUIDE.md  # Complete deployment instructions
-└── README.md                  # This file
+├── index.md                   # TeamCong company landing page (App Support URL)
+├── portfolio.md               # Professional developer portfolio (Career focus)
+├── cv.md                      # Comprehensive professional CV/Resume  
+├── privacy.md                 # Privacy policy for personal apps
+├── terms.md                   # Terms and conditions for personal apps
+├── app-ads.txt                # Ad network authorization file
+├── _config.yml                # Jekyll configuration
+├── .cursorrules              # Development guidelines
+├── scrape_appstore.py        # App Store data scraper
+├── update_portfolio.py       # Portfolio update automation
+├── update_app_ids.py         # App Store ID updater
+├── requirements.txt          # Python dependencies
+├── Makefile                  # Automation commands
+├── DEPLOYMENT_CHECKLIST.md   # Deployment guide
+├── FINAL_DEPLOYMENT_GUIDE.md # Complete deployment instructions
+└── README.md                 # This file
 ```
 
 ## 🚀 Quick Start
@@ -147,11 +158,24 @@ make update-ids
 
 When deployed, the following URLs are available:
 
-- **Portfolio**: `https://teamcong.github.io/`
+- **Company Landing**: `https://teamcong.github.io/` (Perfect for App Store Support URL)
+- **Professional Portfolio**: `https://teamcong.github.io/portfolio` (Career opportunities)
 - **CV/Resume**: `https://teamcong.github.io/cv`
 - **Privacy Policy**: `https://teamcong.github.io/privacy`
 - **Terms & Conditions**: `https://teamcong.github.io/terms`
 - **App-Ads.txt**: `https://teamcong.github.io/app-ads.txt`
+
+## 💡 Perfect Structure Benefits
+
+### For App Store Apps
+- **Support URL**: Use `https://teamcong.github.io` - looks professional and company-focused
+- **Customer Experience**: Users see a clean company page with all apps and support info
+- **Legal Compliance**: Direct links to privacy/terms for App Store requirements
+
+### For Career Opportunities  
+- **Professional Portfolio**: `https://teamcong.github.io/portfolio` - targeted for employers
+- **Principal Developer Focus**: Highlights leadership role and technical expertise
+- **Complete Profile**: Links to CV, company work, and personal projects
 
 ## 👨‍💻 Professional Features
 
