@@ -1,7 +1,1 @@
 🌐 Starting local development server...
-Configuration file: /app/_config.yml
-            Source: /app
-       Destination: /app/_site
- Incremental build: disabled. Enable with --incremental
-      Generating...
-       Jekyll Feed: Generating feed for posts

@@ -23,8 +23,8 @@ def generate_app_collection_html(apps):
 
     html = ""
     for category, apps_in_category in categories.items():
-        html += f"### {category}\\n\\n"
-        html += '<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 2em;">\\n'
+        html += f"### {category}\n\n"
+        html += '<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 2em;">\n'
         for app in apps_in_category:
             html += f"""
 <div style="text-align: center;">
@@ -34,7 +34,7 @@ def generate_app_collection_html(apps):
   <h5 style="margin-top: 0.5em;"><a href="{app['app_store_url']}">{app['name']}</a></h5>
 </div>
 """
-        html += '</div>\\n\\n'
+        html += '</div>\n\n'
     return html
 
 def main():
@@ -55,13 +55,13 @@ def main():
     start_featured = content.find('### 🏆 Featured App')
     end_featured = content.find('---', start_featured)
 
-    new_content = content[:start_featured] + '### 🏆 Featured App\\n\\n' + featured_app_html + '\\n' + content[end_featured:]
+    new_content = content[:start_featured] + '### 🏆 Featured App\n\n' + featured_app_html + '\n' + content[end_featured:]
 
     # Replace app collection section
     start_collection = new_content.find('## 📱 Complete App Collection')
     end_collection = new_content.find('---', start_collection)
 
-    final_content = new_content[:start_collection] + '## 📱 Complete App Collection\\n\\n' + app_collection_html + new_content[end_collection:]
+    final_content = new_content[:start_collection] + '## 📱 Complete App Collection\n\n' + app_collection_html + new_content[end_collection:]
 
     with open('index.md', 'w') as f:
         f.write(final_content)
