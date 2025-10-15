@@ -10,93 +10,97 @@ Welcome to TeamCong, home of quality iOS applications. We develop useful, intuit
 
 ## 🍎 Our Apps on the App Store
 
-### 🏆 Featured App
+### 🏆 Featured App\n\n
+<div style="display: flex; align-items: center; margin-bottom: 2em;">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/da/0a/cfda0a9a-563b-dd70-fff4-75b96fe62f44/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg" alt="Kids Timer Visual Countdown Icon" style="width: 150px; height: 150px; border-radius: 22.5%; margin-right: 2em;">
+  <div>
+    <h4><a href="https://apps.apple.com/gb/app/kids-timer-visual-countdown/id6747147301">Kids Timer Visual Countdown</a></h4>
+    <p><strong>Utilities</strong> | 📱 iPad & iPhone</p>
+    <p>Kids Timer - No Ads: Fun Learning Made Simple!
 
-#### Anniversary Tracker
-**[Download on App Store](https://apps.apple.com/gb/app/anniversary-tracker/id1234567XXX)**
+The perfect timer app designed just for kids! With colorful cartoon graphics and zero advertisements, children can safely learn time management while ha...</p>
+  </div>
+</div>
+\n---
 
-📊 **Over 150k Downloads | 5k Ratings at 4.7 ⭐**
+## 📱 Complete App Collection\n\n### Weather\n\n<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 2em;">\n
+<div style="text-align: center;">
+  <a href="https://apps.apple.com/gb/app/sunrise-sunset-tracker/id6740433779">
+    <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ba/71/54/ba715427-018e-441d-a648-d689c0208c68/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg" alt="Sunrise Sunset Tracker Icon" style="width: 100px; height: 100px; border-radius: 22.5%;">
+  </a>
+  <h5 style="margin-top: 0.5em;"><a href="https://apps.apple.com/gb/app/sunrise-sunset-tracker/id6740433779">Sunrise Sunset Tracker</a></h5>
+</div>
+</div>\n\n### Photo & Video\n\n<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 2em;">\n
+<div style="text-align: center;">
+  <a href="https://apps.apple.com/gb/app/vidcompression/id6740351118">
+    <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/32/b2/d832b2ab-052c-f4d3-9723-92a585f4487f/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/512x512bb.jpg" alt="Vidcompression Icon" style="width: 100px; height: 100px; border-radius: 22.5%;">
+  </a>
+  <h5 style="margin-top: 0.5em;"><a href="https://apps.apple.com/gb/app/vidcompression/id6740351118">Vidcompression</a></h5>
+</div>
 
-Track the number of days you've been in a relationship. Set your date and it'll tell you how many days it has been. Our most popular app with real love stories from users worldwide.
+<div style="text-align: center;">
+  <a href="https://apps.apple.com/gb/app/photo-image-compression/id6740165217">
+    <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e7/55/0e/e7550e21-4fba-551b-f22e-1c1742cc7ad2/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg" alt="Photo Image Compression Icon" style="width: 100px; height: 100px; border-radius: 22.5%;">
+  </a>
+  <h5 style="margin-top: 0.5em;"><a href="https://apps.apple.com/gb/app/photo-image-compression/id6740165217">Photo Image Compression</a></h5>
+</div>
+</div>\n\n### Utilities\n\n<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 2em;">\n
+<div style="text-align: center;">
+  <a href="https://apps.apple.com/gb/app/birthday-reminder-countdowns/id6739454115">
+    <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/8f/59/2e8f59da-37fe-af99-1f9d-44064fd903c0/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg" alt="Birthday Reminder Countdowns Icon" style="width: 100px; height: 100px; border-radius: 22.5%;">
+  </a>
+  <h5 style="margin-top: 0.5em;"><a href="https://apps.apple.com/gb/app/birthday-reminder-countdowns/id6739454115">Birthday Reminder Countdowns</a></h5>
+</div>
 
-**Features:**
-- Simple, beautiful interface
-- Custom notifications and reminders
-- Milestone celebrations
-- Share your milestones
+<div style="text-align: center;">
+  <a href="https://apps.apple.com/gb/app/lullaby-pal-white-noise/id6739187522">
+    <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/09/2b/ff092b54-f17a-4844-a467-f64f6726e5f9/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/512x512bb.jpg" alt="Lullaby Pal White Noise Icon" style="width: 100px; height: 100px; border-radius: 22.5%;">
+  </a>
+  <h5 style="margin-top: 0.5em;"><a href="https://apps.apple.com/gb/app/lullaby-pal-white-noise/id6739187522">Lullaby Pal White Noise</a></h5>
+</div>
 
----
+<div style="text-align: center;">
+  <a href="https://apps.apple.com/gb/app/link-saver-fast-and-easy/id6743759106">
+    <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/37/44/cb3744e0-6e62-ad56-296f-7671f5e67556/AppIcon-0-0-1x_U007ephone-0-1-P3-85-220.png/512x512bb.jpg" alt="Link Saver Fast And Easy Icon" style="width: 100px; height: 100px; border-radius: 22.5%;">
+  </a>
+  <h5 style="margin-top: 0.5em;"><a href="https://apps.apple.com/gb/app/link-saver-fast-and-easy/id6743759106">Link Saver Fast And Easy</a></h5>
+</div>
+</div>\n\n### Education\n\n<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 2em;">\n
+<div style="text-align: center;">
+  <a href="https://apps.apple.com/gb/app/learn-japanese/id1637507803">
+    <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/9b/f4/fe9bf405-1db0-8f16-711a-108a218a8120/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg" alt="Learn Japanese Icon" style="width: 100px; height: 100px; border-radius: 22.5%;">
+  </a>
+  <h5 style="margin-top: 0.5em;"><a href="https://apps.apple.com/gb/app/learn-japanese/id1637507803">Learn Japanese</a></h5>
+</div>
 
-## 📱 Complete App Collection
-
-### ⏰ Productivity & Time Management
-
-*   **[Pomodoro timer: Focus](https://apps.apple.com/gb/app/pomodoro-timer-focus/id1234567896)**
-    Boost productivity with proven time management techniques. Break work into focused intervals with customizable break periods.
-    📱 Platform: iPhone
-
-### 🌅 Weather & Information
-
-*   **[Sunrise & Sunset tracker](https://apps.apple.com/gb/app/sunrise-sunset-tracker/id1234567900)**
-    Track sunrise and sunset times for any location. Perfect for photographers, outdoor enthusiasts, and anyone who wants to plan their day around natural light.
-    📱 Platform: iPad & iPhone
-
-### 🎮 Entertainment
-
-*   **[Card Value Tracker for Pokemon](https://apps.apple.com/gb/app/card-value-tracker-for-pokemon/id6743774763)**
-    Track and manage your Pokemon card collection values. Stay up-to-date with current market prices and organize your collection.
-    📱 Platform: iPhone
-
-### 💰 Finance & Calculations
-
-*   **[Mortgage Calculator - Learn](https://apps.apple.com/gb/app/mortgage-calculator-learn/id1234567897)**
-    Calculate mortgage payments and learn about home financing. Includes amortization schedules and educational content.
-    📱 Platform: iPhone
-
-### 📸 Photo & Video Apps
-
-*   **[VidCompression](https://apps.apple.com/gb/app/vidcompression/id1234567890)**
-    Compress your videos efficiently while maintaining quality. Reduce file sizes for easy sharing without sacrificing visual fidelity.
-    📱 Platform: iPad & iPhone
-
-*   **[Photo Image Compression](https://apps.apple.com/gb/app/photo-image-compression/id1234567891)**
-    Reduce image file sizes without losing quality. Perfect for social media sharing, email attachments, and storage optimization.
-    📱 Platform: iPad & iPhone
-
-### 🚗 Education
-
-*   **[Driving Theory Test UK 2025](https://apps.apple.com/gb/app/driving-theory-test-uk-2025/id1234567901)**
-    Prepare for your UK driving theory test with comprehensive practice questions and mock exams. Updated for 2025 requirements.
-    📱 Platform: iPad & iPhone
-
-### 🛠️ Utilities & Productivity
-
-*   **[Birthday Tracker and Reminders](https://apps.apple.com/gb/app/birthday-tracker-and-reminders/id1234567892)**
-    Never forget important birthdays and anniversaries. Set custom reminders and keep track of all your loved ones' special days.
-    📱 Platform: iPad & iPhone
-
-*   **[Lullaby Pal - White Noise](https://apps.apple.com/gb/app/lullaby-pal-white-noise/id1234567893)**
-    Soothing sounds for better sleep and relaxation. Choose from a variety of ambient sounds to help you fall asleep faster.
-    📱 Platform: iPad & iPhone
-
-*   **[Link Saver - fast and easy](https://apps.apple.com/gb/app/link-saver-fast-and-easy/id1234567894)**
-    Save and organize important links efficiently. Quick bookmarking with categories and search functionality.
-    📱 Platform: iPhone
-
-*   **[To Do List - One focus](https://apps.apple.com/gb/app/to-do-list-one-focus/id1234567895)**
-    Minimalist task management with single-focus approach. Reduce overwhelm by focusing on one task at a time.
-    📱 Platform: iPhone
-
-*   **[Water them plants](https://apps.apple.com/gb/app/water-them-plants/id1234567XXX)**
-    **1k Downloads**
-    A plant watering reminder app. Add photos using your camera or from photo library. Set custom times and recurring dates so you don't forget to water your lovely plants.
-    📱 Platform: iPhone
-
-*   **[Couple days counter](https://apps.apple.com/gb/app/couple-days-counter/id1234567899)**
-    Track milestones in your relationship. Count days since special moments and set reminders for anniversaries.
-    📱 Platform: iPhone
-
----
+<div style="text-align: center;">
+  <a href="https://apps.apple.com/gb/app/fish-finder-ai-identifier/id6746223793">
+    <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/72/0d/df/720ddf03-85ad-2092-d0b8-8915d7b98289/AppIconFish-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg" alt="Fish Finder Ai Identifier Icon" style="width: 100px; height: 100px; border-radius: 22.5%;">
+  </a>
+  <h5 style="margin-top: 0.5em;"><a href="https://apps.apple.com/gb/app/fish-finder-ai-identifier/id6746223793">Fish Finder Ai Identifier</a></h5>
+</div>
+</div>\n\n### Productivity\n\n<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 2em;">\n
+<div style="text-align: center;">
+  <a href="https://apps.apple.com/gb/app/pomodoro-timer-focus/id6744445553">
+    <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c4/5b/66/c45b66cc-b443-2bd6-8c35-51459f1da901/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg" alt="Pomodoro Timer Focus Icon" style="width: 100px; height: 100px; border-radius: 22.5%;">
+  </a>
+  <h5 style="margin-top: 0.5em;"><a href="https://apps.apple.com/gb/app/pomodoro-timer-focus/id6744445553">Pomodoro Timer Focus</a></h5>
+</div>
+</div>\n\n### Finance\n\n<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 2em;">\n
+<div style="text-align: center;">
+  <a href="https://apps.apple.com/gb/app/mortgage-calculator-learn/id6743800478">
+    <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/22/2e/c0222e75-f67a-b52a-e291-2a15480f09b8/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg" alt="Mortgage Calculator Learn Icon" style="width: 100px; height: 100px; border-radius: 22.5%;">
+  </a>
+  <h5 style="margin-top: 0.5em;"><a href="https://apps.apple.com/gb/app/mortgage-calculator-learn/id6743800478">Mortgage Calculator Learn</a></h5>
+</div>
+</div>\n\n### Entertainment\n\n<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 2em;">\n
+<div style="text-align: center;">
+  <a href="https://apps.apple.com/gb/app/card-value-tracker-for-pokemon/id6743774763">
+    <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/ba/36/e3ba367e-b3ed-786a-84e3-b4351d9f304e/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg" alt="Card Value Tracker For Pokemon Icon" style="width: 100px; height: 100px; border-radius: 22.5%;">
+  </a>
+  <h5 style="margin-top: 0.5em;"><a href="https://apps.apple.com/gb/app/card-value-tracker-for-pokemon/id6743774763">Card Value Tracker For Pokemon</a></h5>
+</div>
+</div>\n\n---
 
 ## 🏪 Find Us on the App Store
 

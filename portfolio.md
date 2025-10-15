@@ -3,8 +3,13 @@ title: Cong Le - Principal iOS Developer Portfolio
 layout: default
 ---
 
-# Cong Le (@CongLe)
-**Principal iOS Developer at Capital One**
+<div style="display: flex; align-items: center; margin-bottom: 2em;">
+  <img src="https://cdn.jsdelivr.net/gh/alohe/avatars/png/vibrent_1.png" alt="Cong Le" style="width: 150px; height: 150px; border-radius: 50%; margin-right: 2em;">
+  <div>
+    <h1>Cong Le (@CongLe)</h1>
+    <p><strong>Principal iOS Developer at Capital One</strong></p>
+  </div>
+</div>
 
 Currently leading iOS development at one of the UK's largest digital banks. A seasoned iOS engineer with 9+ years of professional experience building large-scale consumer applications. Passionate about clean architecture, user experience, and mentoring development teams.
 
@@ -35,19 +40,18 @@ Leading iOS development for one of the UK's most innovative digital banks. Worki
 
 ---
 
-## 🌟 Featured Personal Project
+## 🌟 Featured Personal Project\n\n
+<div style="display: flex; align-items: center; margin-bottom: 2em;">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/da/0a/cfda0a9a-563b-dd70-fff4-75b96fe62f44/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg" alt="Kids Timer Visual Countdown Icon" style="width: 150px; height: 150px; border-radius: 22.5%; margin-right: 2em;">
+  <div>
+    <h4><a href="https://apps.apple.com/gb/app/kids-timer-visual-countdown/id6747147301">Kids Timer Visual Countdown</a></h4>
+    <p><strong>Utilities</strong> | 📱 iPad & iPhone</p>
+    <p>Kids Timer - No Ads: Fun Learning Made Simple!
 
-### 🏆 Anniversary Tracker
-**[Download on App Store](https://apps.apple.com/gb/app/anniversary-tracker/id1234567XXX)**
-
-📊 **Over 150k Downloads | 5k Ratings at 4.7 ⭐**
-
-Track the number of days you've been in a relationship. Set your date and it'll tell you how many days it has been. My most successful personal project demonstrating end-to-end product development skills.
-
-**Technologies**: SwiftUI, Core Data, MVVM, Swift  
-**Platform**: iPhone & iPad
-
----
+The perfect timer app designed just for kids! With colorful cartoon graphics and zero advertisements, children can safely learn time management while ha...</p>
+  </div>
+</div>
+\n---
 
 ## 🚀 Professional Experience Timeline
 
@@ -87,24 +91,84 @@ Entry-level iOS developer role focusing on consumer applications and UI developm
 
 ---
 
-## My Personal App Portfolio
+## My Personal App Portfolio\n\n<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 2em;">\n
+<div style="text-align: center;">
+  <a href="https://apps.apple.com/gb/app/sunrise-sunset-tracker/id6740433779">
+    <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ba/71/54/ba715427-018e-441d-a648-d689c0208c68/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg" alt="Sunrise Sunset Tracker Icon" style="width: 100px; height: 100px; border-radius: 22.5%;">
+  </a>
+  <h5 style="margin-top: 0.5em;"><a href="https://apps.apple.com/gb/app/sunrise-sunset-tracker/id6740433779">Sunrise Sunset Tracker</a></h5>
+</div>
 
-Personal projects developed alongside my professional career, showcasing full-stack iOS development skills. All apps available on the [TeamCong company page](./index).
+<div style="text-align: center;">
+  <a href="https://apps.apple.com/gb/app/vidcompression/id6740351118">
+    <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/32/b2/d832b2ab-052c-f4d3-9723-92a585f4487f/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/512x512bb.jpg" alt="Vidcompression Icon" style="width: 100px; height: 100px; border-radius: 22.5%;">
+  </a>
+  <h5 style="margin-top: 0.5em;"><a href="https://apps.apple.com/gb/app/vidcompression/id6740351118">Vidcompression</a></h5>
+</div>
 
-### 🏆 Portfolio Highlights
+<div style="text-align: center;">
+  <a href="https://apps.apple.com/gb/app/photo-image-compression/id6740165217">
+    <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e7/55/0e/e7550e21-4fba-551b-f22e-1c1742cc7ad2/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg" alt="Photo Image Compression Icon" style="width: 100px; height: 100px; border-radius: 22.5%;">
+  </a>
+  <h5 style="margin-top: 0.5em;"><a href="https://apps.apple.com/gb/app/photo-image-compression/id6740165217">Photo Image Compression</a></h5>
+</div>
 
-**📊 Total Impact:**
-- **150k+ Downloads** across all personal projects
-- **12+ Published Apps** on the Apple App Store
-- **4.7+ Star Average Rating** with consistent user satisfaction
-- **Diverse Categories** - Productivity, utilities, finance, lifestyle, entertainment
+<div style="text-align: center;">
+  <a href="https://apps.apple.com/gb/app/birthday-reminder-countdowns/id6739454115">
+    <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/8f/59/2e8f59da-37fe-af99-1f9d-44064fd903c0/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg" alt="Birthday Reminder Countdowns Icon" style="width: 100px; height: 100px; border-radius: 22.5%;">
+  </a>
+  <h5 style="margin-top: 0.5em;"><a href="https://apps.apple.com/gb/app/birthday-reminder-countdowns/id6739454115">Birthday Reminder Countdowns</a></h5>
+</div>
 
-**🌟 Featured Success Stories:**
-- **Anniversary Tracker**: 150k+ downloads, 5k ratings at 4.7⭐
-- **Water them plants**: 1k downloads, plant care community favorite
-- **Complete app ecosystem** demonstrating end-to-end product development
+<div style="text-align: center;">
+  <a href="https://apps.apple.com/gb/app/lullaby-pal-white-noise/id6739187522">
+    <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/09/2b/ff092b54-f17a-4844-a467-f64f6726e5f9/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/512x512bb.jpg" alt="Lullaby Pal White Noise Icon" style="width: 100px; height: 100px; border-radius: 22.5%;">
+  </a>
+  <h5 style="margin-top: 0.5em;"><a href="https://apps.apple.com/gb/app/lullaby-pal-white-noise/id6739187522">Lullaby Pal White Noise</a></h5>
+</div>
 
----
+<div style="text-align: center;">
+  <a href="https://apps.apple.com/gb/app/learn-japanese/id1637507803">
+    <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/9b/f4/fe9bf405-1db0-8f16-711a-108a218a8120/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg" alt="Learn Japanese Icon" style="width: 100px; height: 100px; border-radius: 22.5%;">
+  </a>
+  <h5 style="margin-top: 0.5em;"><a href="https://apps.apple.com/gb/app/learn-japanese/id1637507803">Learn Japanese</a></h5>
+</div>
+
+<div style="text-align: center;">
+  <a href="https://apps.apple.com/gb/app/fish-finder-ai-identifier/id6746223793">
+    <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/72/0d/df/720ddf03-85ad-2092-d0b8-8915d7b98289/AppIconFish-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg" alt="Fish Finder Ai Identifier Icon" style="width: 100px; height: 100px; border-radius: 22.5%;">
+  </a>
+  <h5 style="margin-top: 0.5em;"><a href="https://apps.apple.com/gb/app/fish-finder-ai-identifier/id6746223793">Fish Finder Ai Identifier</a></h5>
+</div>
+
+<div style="text-align: center;">
+  <a href="https://apps.apple.com/gb/app/pomodoro-timer-focus/id6744445553">
+    <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c4/5b/66/c45b66cc-b443-2bd6-8c35-51459f1da901/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg" alt="Pomodoro Timer Focus Icon" style="width: 100px; height: 100px; border-radius: 22.5%;">
+  </a>
+  <h5 style="margin-top: 0.5em;"><a href="https://apps.apple.com/gb/app/pomodoro-timer-focus/id6744445553">Pomodoro Timer Focus</a></h5>
+</div>
+
+<div style="text-align: center;">
+  <a href="https://apps.apple.com/gb/app/mortgage-calculator-learn/id6743800478">
+    <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/22/2e/c0222e75-f67a-b52a-e291-2a15480f09b8/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg" alt="Mortgage Calculator Learn Icon" style="width: 100px; height: 100px; border-radius: 22.5%;">
+  </a>
+  <h5 style="margin-top: 0.5em;"><a href="https://apps.apple.com/gb/app/mortgage-calculator-learn/id6743800478">Mortgage Calculator Learn</a></h5>
+</div>
+
+<div style="text-align: center;">
+  <a href="https://apps.apple.com/gb/app/card-value-tracker-for-pokemon/id6743774763">
+    <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/ba/36/e3ba367e-b3ed-786a-84e3-b4351d9f304e/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg" alt="Card Value Tracker For Pokemon Icon" style="width: 100px; height: 100px; border-radius: 22.5%;">
+  </a>
+  <h5 style="margin-top: 0.5em;"><a href="https://apps.apple.com/gb/app/card-value-tracker-for-pokemon/id6743774763">Card Value Tracker For Pokemon</a></h5>
+</div>
+
+<div style="text-align: center;">
+  <a href="https://apps.apple.com/gb/app/link-saver-fast-and-easy/id6743759106">
+    <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/37/44/cb3744e0-6e62-ad56-296f-7671f5e67556/AppIcon-0-0-1x_U007ephone-0-1-P3-85-220.png/512x512bb.jpg" alt="Link Saver Fast And Easy Icon" style="width: 100px; height: 100px; border-radius: 22.5%;">
+  </a>
+  <h5 style="margin-top: 0.5em;"><a href="https://apps.apple.com/gb/app/link-saver-fast-and-easy/id6743759106">Link Saver Fast And Easy</a></h5>
+</div>
+</div>\n---
 
 ## 📊 Professional Profile
 
