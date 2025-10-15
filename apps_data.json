@@ -1,5 +1,14 @@
 [
   {
+    "name": "Anniversary Tracker",
+    "category": "Utilities",
+    "platform": "iPad & iPhone",
+    "description": "Record your anniversaries with [ Anniversary Tracker ] of you and your partner...",
+    "app_store_url": "https://apps.apple.com/us/app/anniversary-tracker/id1570714816?uo=4",
+    "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/c7/e5/a4c7e599-09a9-a730-fb82-b576ad0c6f36/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
+    "app_id": "1570714816"
+  },
+  {
     "name": "Kids Timer Visual Countdown",
     "category": "Utilities",
     "platform": "iPad & iPhone",
