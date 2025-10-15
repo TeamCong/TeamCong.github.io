@@ -41,9 +41,15 @@ def main():
     with open('apps_data.json', 'r') as f:
         apps = json.load(f)
 
-    # Find the featured app - let's use the first one for now
-    featured_app = apps[0]
-    other_apps = apps[1:]
+    # Find Anniversary Tracker to feature it
+    featured_app = next((app for app in apps if app['name'] == 'Anniversary Tracker'), None)
+
+    if featured_app:
+        other_apps = [app for app in apps if app['name'] != 'Anniversary Tracker']
+    else:
+        # Default to the first app if Anniversary Tracker is not found
+        featured_app = apps[0]
+        other_apps = apps[1:]
 
     featured_app_html = generate_featured_app_html(featured_app)
     app_collection_html = generate_app_collection_html(other_apps)
