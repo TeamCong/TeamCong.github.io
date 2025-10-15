@@ -3,16 +3,16 @@ title: Cong Le - Principal iOS Developer CV
 layout: default
 ---
 
-# Cong Le (@CongLe)
-**Principal iOS Developer**
-
-📧 anniversarytrackerteamcong@gmail.com  
-🌐 [Professional Portfolio](./portfolio) - Career-focused profile  
-🏢 [TeamCong Apps](./index) - Company landing page  
-🍎 [App Store Developer](https://apps.apple.com/gb/developer/cong-le/id954373766)  
-💻 [GitHub: @CongLe](https://github.com/CongLe)  
-🐦 [Twitter: @CongLe](https://twitter.com/CongLe)  
-📍 Nottingham, England, United Kingdom
+<div style="display: flex; align-items: center; margin-bottom: 2em;">
+  <img src="https://cdn.jsdelivr.net/gh/alohe/avatars/png/vibrent_1.png" alt="Cong Le" style="width: 150px; height: 150px; border-radius: 50%; margin-right: 2em;">
+  <div>
+    <h1>Cong Le (@CongLe)</h1>
+    <p><strong>Principal iOS Developer</strong></p>
+    <p>📧 anniversarytrackerteamcong@gmail.com<br>
+       🌐 <a href="./portfolio">Professional Portfolio</a><br>
+       📍 Nottingham, England, United Kingdom</p>
+  </div>
+</div>
 
 ---
 
