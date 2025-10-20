@@ -1,0 +1,644 @@
+{
+  "apps": [
+    {
+      "name": "Anniversary Tracker",
+      "category": "Utilities",
+      "platform": "iPad & iPhone",
+      "description": "Record your anniversaries with [ Anniversary Tracker ] of you and your partner...",
+      "app_store_url": "https://apps.apple.com/us/app/anniversary-tracker/id1570714816?uo=4",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a4/c7/e5/a4c7e599-09a9-a730-fb82-b576ad0c6f36/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-85-220.png/512x512bb.jpg",
+      "app_id": "1570714816",
+      "id": "1570714816",
+      "rating": 4.5,
+      "downloads": "100K+",
+      "price": "Free",
+      "screenshots": 3
+    },
+    {
+      "name": "Kids Timer Visual Countdown",
+      "category": "Utilities",
+      "platform": "iPad & iPhone",
+      "description": "Kids Timer - No Ads: Fun Learning Made Simple!\n\nThe perfect timer app designed just for kids! With colorful cartoon graphics and zero advertisements, children can safely learn time management while ha...",
+      "app_store_url": "https://apps.apple.com/gb/app/kids-timer-visual-countdown/id6747147301",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/cf/da/0a/cfda0a9a-563b-dd70-fff4-75b96fe62f44/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "app_id": "6747147301",
+      "id": "6747147301",
+      "rating": 4.5,
+      "downloads": "100K+",
+      "price": "Free",
+      "screenshots": 3
+    },
+    {
+      "name": "Sunrise Sunset Tracker",
+      "category": "Weather",
+      "platform": "iPad & iPhone",
+      "description": "Catch Every Sunrise and Sunset\nDiscover the beauty of nature\u2019s daily rhythm with SunsUp SunsDown, your ultimate companion for sunrise and sunset tracking. Whether you\u2019re a photographer, an outdoor ent...",
+      "app_store_url": "https://apps.apple.com/gb/app/sunrise-sunset-tracker/id6740433779",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ba/71/54/ba715427-018e-441d-a648-d689c0208c68/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "app_id": "6740433779",
+      "id": "6740433779",
+      "rating": 4.5,
+      "downloads": "100K+",
+      "price": "Free",
+      "screenshots": 3
+    },
+    {
+      "name": "Vidcompression",
+      "category": "Photo & Video",
+      "platform": "iPad & iPhone",
+      "description": "Description:\nVidCompression is your go-to solution for effortless video compression. Built for simplicity and performance, this powerful app helps you reduce video file sizes while preserving quality ...",
+      "app_store_url": "https://apps.apple.com/gb/app/vidcompression/id6740351118",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/d8/32/b2/d832b2ab-052c-f4d3-9723-92a585f4487f/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/512x512bb.jpg",
+      "app_id": "6740351118",
+      "id": "6740351118",
+      "rating": 4.5,
+      "downloads": "100K+",
+      "price": "Free",
+      "screenshots": 3
+    },
+    {
+      "name": "Photo Image Compression",
+      "category": "Photo & Video",
+      "platform": "iPad & iPhone",
+      "description": "Take control of your photo storage with our professional-grade image compression tool. Whether you're a photographer looking to optimize your portfolio or someone who wants to free up space on their d...",
+      "app_store_url": "https://apps.apple.com/gb/app/photo-image-compression/id6740165217",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e7/55/0e/e7550e21-4fba-551b-f22e-1c1742cc7ad2/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
+      "app_id": "6740165217",
+      "id": "6740165217",
+      "rating": 4.5,
+      "downloads": "100K+",
+      "price": "Free",
+      "screenshots": 3
+    },
+    {
+      "name": "Birthday Reminder Countdowns",
+      "category": "Utilities",
+      "platform": "iPad & iPhone",
+      "description": "Never miss a birthday again! Our beautiful countdown keeps you excited for every special day, while smart reminders ensure you're always prepared with thoughtful wishes or the perfect gift.\n\nCreate th...",
+      "app_store_url": "https://apps.apple.com/gb/app/birthday-reminder-countdowns/id6739454115",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2e/8f/59/2e8f59da-37fe-af99-1f9d-44064fd903c0/AppIcon-0-0-1x_U007epad-0-1-sRGB-85-220.png/512x512bb.jpg",
+      "app_id": "6739454115",
+      "id": "6739454115",
+      "rating": 4.5,
+      "downloads": "100K+",
+      "price": "Free",
+      "screenshots": 3
+    },
+    {
+      "name": "Lullaby Pal White Noise",
+      "category": "Utilities",
+      "platform": "iPad & iPhone",
+      "description": "Lullaby Pal is a helpful white noise app, thoughtfully designed to help your baby or child drift off to sleep peacefully. \nWith a library of soothing sounds and an easy-to-use interface, bedtime has n...",
+      "app_store_url": "https://apps.apple.com/gb/app/lullaby-pal-white-noise/id6739187522",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ff/09/2b/ff092b54-f17a-4844-a467-f64f6726e5f9/AppIcon-0-0-1x_U007epad-0-1-P3-85-220.png/512x512bb.jpg",
+      "app_id": "6739187522",
+      "id": "6739187522",
+      "rating": 4.5,
+      "downloads": "100K+",
+      "price": "Free",
+      "screenshots": 3
+    },
+    {
+      "name": "Learn Japanese",
+      "category": "Education",
+      "platform": "iPhone",
+      "description": "Learning Japanese doesn\u2019t have to mean hours of memorization. With Learn Japanese, you absorb new words naturally every time you check your phone.\n\nOur widgets bring carefully chosen Japanese vocabula...",
+      "app_store_url": "https://apps.apple.com/gb/app/learn-japanese/id1637507803",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fe/9b/f4/fe9bf405-1db0-8f16-711a-108a218a8120/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+      "app_id": "1637507803",
+      "id": "1637507803",
+      "rating": 4.5,
+      "downloads": "100K+",
+      "price": "Free",
+      "screenshots": 3
+    },
+    {
+      "name": "Fish Finder Ai Identifier",
+      "category": "Education",
+      "platform": "iPhone",
+      "description": "Turn your phone into the ultimate fish finder and species identifier. This is the essential fishing companion every angler needs. Instantly identify any catch with a quick camera lookup, from freshwat...",
+      "app_store_url": "https://apps.apple.com/gb/app/fish-finder-ai-identifier/id6746223793",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/72/0d/df/720ddf03-85ad-2092-d0b8-8915d7b98289/AppIconFish-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+      "app_id": "6746223793",
+      "id": "6746223793",
+      "rating": 4.5,
+      "downloads": "100K+",
+      "price": "Free",
+      "screenshots": 3
+    },
+    {
+      "name": "Pomodoro Timer Focus",
+      "category": "Productivity",
+      "platform": "iPhone",
+      "description": "Boost your productivity with a delightful twist! Simple Timer combines the proven Pomodoro technique with an engaging reward system that makes focusing fun.\n\nPowerful Pomodoro Timer\n\u2022 Clean, distracti...",
+      "app_store_url": "https://apps.apple.com/gb/app/pomodoro-timer-focus/id6744445553",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c4/5b/66/c45b66cc-b443-2bd6-8c35-51459f1da901/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+      "app_id": "6744445553",
+      "id": "6744445553",
+      "rating": 4.5,
+      "downloads": "100K+",
+      "price": "Free",
+      "screenshots": 3
+    },
+    {
+      "name": "Mortgage Calculator Learn",
+      "category": "Finance",
+      "platform": "iPhone",
+      "description": "Mortgage Calculator - Learn \n\nhelps you make informed home-buying decisions with accurate mortgage calculations, powerful overpayment analysis, and the ability to save and compare multiple scenarios.\n...",
+      "app_store_url": "https://apps.apple.com/gb/app/mortgage-calculator-learn/id6743800478",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/22/2e/c0222e75-f67a-b52a-e291-2a15480f09b8/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+      "app_id": "6743800478",
+      "id": "6743800478",
+      "rating": 4.5,
+      "downloads": "100K+",
+      "price": "Free",
+      "screenshots": 3
+    },
+    {
+      "name": "Card Value Tracker For Pokemon",
+      "category": "Entertainment",
+      "platform": "iPhone",
+      "description": "# Pok\u00e9mon Card Collection App: Your Ultimate Collecting Companion\n\nDiscover the Most Advanced Pok\u00e9mon Card Tracking Experience\n\nElevate your Pok\u00e9mon card collecting journey with our cutting-edge mobil...",
+      "app_store_url": "https://apps.apple.com/gb/app/card-value-tracker-for-pokemon/id6743774763",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e3/ba/36/e3ba367e-b3ed-786a-84e3-b4351d9f304e/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.jpg",
+      "app_id": "6743774763",
+      "id": "6743774763",
+      "rating": 4.5,
+      "downloads": "100K+",
+      "price": "Free",
+      "screenshots": 3
+    },
+    {
+      "name": "Link Saver Fast And Easy",
+      "category": "Utilities",
+      "platform": "iPhone",
+      "description": "Link Saver: Bookmark Anything, Anywhere\nDiscover the simplest way to save and organize links across all your devices. Link Saver transforms how you collect, manage, and revisit web content you care ab...",
+      "app_store_url": "https://apps.apple.com/gb/app/link-saver-fast-and-easy/id6743759106",
+      "icon_url": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cb/37/44/cb3744e0-6e62-ad56-296f-7671f5e67556/AppIcon-0-0-1x_U007ephone-0-1-P3-85-220.png/512x512bb.jpg",
+      "app_id": "6743759106",
+      "id": "6743759106",
+      "rating": 4.5,
+      "downloads": "100K+",
+      "price": "Free",
+      "screenshots": 3
+    }
+  ],
+  "experiences": [
+    {
+      "id": 1,
+      "title": "Principal iOS Developer",
+      "company": "Capital One",
+      "period": "Dec 2021 - Present (3 yrs 7 mos)",
+      "description": "Leading iOS development for one of the UK's most innovative digital banks, working on large-scale consumer applications serving millions of users.\n\n**Key Responsibilities & Achievements:**\n- \ud83c\udfc6 **Highest contributor** to the iOS repository across the entire development team\n- \ud83c\udfd7\ufe0f **Architecture leadership** - Pragmatic approach to problem-solving, tackling challenges with architecture, UI, and legacy mixed codebase improvements\n- \ud83d\udcc8 **Codebase health** - Contributing to the continual improvement of the monolithic codebase and its overall health\n- \ud83e\udd1d **Feature champion** - Working closely with cross-functional stakeholders including designers, product owners, QA, and services teams\n- \ud83d\udd27 **Technical excellence** - Driving development best practices and mentoring team members\n\n**Technologies:** SwiftUI, UIKit, Swift, Objective-C, MVVM, XCTest, Git, Agile, Cross-functional delivery teams, CI/CD (Jenkins/Fastlane), JIRA, Confluence"
+    },
+    {
+      "id": 2,
+      "title": "English Second Language Teacher",
+      "company": "Elitopia - Korean Language Center",
+      "period": "Dec 2020 - Aug 2021 (9 mos)",
+      "description": "- Taught English to international students during career transition\n- Developed enhanced communication and presentation skills\n- Gained cross-cultural understanding and patience"
+    },
+    {
+      "id": 3,
+      "title": "Senior iOS Developer",
+      "company": "Capital One",
+      "period": "Jan 2015 - Oct 2018 (3 yrs 10 mos)",
+      "description": "Senior iOS developer role focusing on consumer banking applications and financial services.\n\n**Key Responsibilities:**\n- \ud83d\udcf1 **iOS application development** using modern iOS technologies and patterns\n- \ud83e\uddea **Test-driven development** - Implementing comprehensive testing strategies\n- \ud83d\udc65 **Cross-functional collaboration** - Working in agile delivery teams\n- \ud83d\udd04 **CI/CD implementation** - Building and maintaining automated deployment pipelines\n- \ud83d\udcbb **Pair programming** - Collaborative development and knowledge sharing\n\n**Technologies:** Objective-C, Swift, MVVM, TDD, XCTest, OCMock, Calabash, Objection DI, Git, Ruby, Agile, cross-functional delivery teams, CI (Jenkins/Fastlane), Pair Programming, JIRA, Confluence"
+    },
+    {
+      "id": 4,
+      "title": "iOS Developer",
+      "company": "Wonder PL",
+      "period": "2013 - 2014 (1 yr)",
+      "description": "Entry-level iOS developer role focusing on consumer applications and UI development.\n\n**Key Responsibilities:**\n- \ud83d\udcf1 **iOS app development** using Objective-C and modern iOS frameworks\n- \ud83e\uddea **Unit testing** - Implementing comprehensive test coverage\n- \ud83c\udfa8 **Custom UI development** - Creating engaging user interfaces and interactions\n- \ud83d\udcca **Agile development** - Working in fast-paced development cycles\n\n**Technologies:** Objective-C, Unit Testing, Custom Views, UIDynamics, Collection Views, Git, UITests, Agile, Jenkins CI, Pivotal Tracker"
+    },
+    {
+      "id": 5,
+      "title": "Volunteer English Teacher",
+      "company": "Homestay Ch\u00f9a B\u1ed9c",
+      "period": "Feb 2019 - Mar 2019 (2 mos)",
+      "description": "Volunteer teaching experience during travel period, contributing to community development."
+    },
+    {
+      "id": 6,
+      "title": "iOS Development (Expert Level)",
+      "company": "- Swift (Expert) - 9+ years professional experience",
+      "period": "- SwiftUI (Advanced) - Modern declarative UI development with Combine",
+      "description": "- **Objective-C** (Advanced) - Legacy codebase maintenance and mixed Swift/ObjC projects\n- **Core Data** (Advanced) - Local data persistence and CloudKit integration"
+    },
+    {
+      "id": 7,
+      "title": "Architecture & Design Patterns",
+      "company": "- MVVM - Preferred architecture for scalable and testable applications",
+      "period": "- Clean Architecture - Separation of concerns and maintainable code design",
+      "description": "- **Dependency Injection** - Testable and modular application architecture\n- **Reactive Programming** - Combine framework and modern async patterns"
+    },
+    {
+      "id": 8,
+      "title": "Testing & Quality Assurance",
+      "company": "- XCTest (Advanced) - Comprehensive unit and integration testing",
+      "period": "- TDD (Advanced) - Test-driven development practices and methodologies",
+      "description": "- **UI Testing** - Automated user interface testing and validation\n- **Code Review** - Technical leadership and quality assurance processes"
+    },
+    {
+      "id": 9,
+      "title": "Enterprise Development Tools",
+      "company": "- Git (Expert) - Advanced version control, branching strategies, and team collaboration",
+      "period": "- Jenkins/Fastlane (Advanced) - CI/CD pipeline development, automation, and deployment",
+      "description": "- **Instruments** (Intermediate) - Performance profiling and optimization\n- **JIRA/Confluence** (Advanced) - Project management and technical documentation"
+    },
+    {
+      "id": 10,
+      "title": "Leadership & Collaboration",
+      "company": "- Technical Leadership - Architecture decisions and team mentoring",
+      "period": "- Cross-functional Teams - Collaboration with designers, product, QA, and backend teams",
+      "description": "- **Code Quality** - Driving best practices and development standards\n- **Mentoring** - Supporting junior developers and knowledge sharing"
+    },
+    {
+      "id": 11,
+      "title": "Professional Accomplishments",
+      "company": "- \ud83e\udd47 Highest iOS Repository Contributor at Capital One (current recognition)",
+      "period": "- \ud83d\udcc8 Architecture Leadership - Leading modernization of legacy codebases",
+      "description": "- **\ud83d\udd27 Process Improvement** - Implementing CI/CD best practices and development workflows"
+    },
+    {
+      "id": 12,
+      "title": "Personal Project Success",
+      "company": "- \ud83d\udcf1 150k+ Downloads - Anniversary Tracker app success demonstrating product skills",
+      "period": "- \u2b50 4.7 Star Rating - Consistent high-quality user experiences across 12+ published apps",
+      "description": "- **\ud83c\udfea App Store Success** - Proven ability to navigate App Store guidelines and optimization"
+    },
+    {
+      "id": 13,
+      "title": "Architecture & Code Quality",
+      "company": "- Legacy System Modernization - Leading efforts to improve monolithic codebase health",
+      "period": "- Architecture Decision Making - Driving technical decisions for large-scale consumer applications",
+      "description": "- **Technical Debt Management** - Balancing feature delivery with codebase improvements"
+    },
+    {
+      "id": 14,
+      "title": "Team Collaboration & Mentoring",
+      "company": "- Cross-functional Leadership - Working as feature champion with diverse stakeholders",
+      "period": "- Developer Mentoring - Supporting team growth and technical skill development",
+      "description": "- **Knowledge Sharing** - Leading technical discussions and best practice adoption"
+    },
+    {
+      "id": 15,
+      "title": "Innovation & Problem Solving",
+      "company": "- Pragmatic Solutions - Tackling complex technical challenges in large-scale applications",
+      "period": "- User Experience Focus - Balancing technical excellence with user-centric design",
+      "description": "- **Technical Strategy** - Contributing to long-term technical vision and roadmap"
+    },
+    {
+      "id": 16,
+      "title": "Professional Development",
+      "company": "- Apple Developer Program - Active member with deep App Store knowledge",
+      "period": "- WWDC Attendance - Regular participation in Apple's developer conferences",
+      "description": "- **Technical Leadership** - Ongoing development of leadership and mentoring skills"
+    },
+    {
+      "id": 17,
+      "title": "Certifications & Standards",
+      "company": "- App Store Guidelines - Expert knowledge of Apple's review and publishing requirements",
+      "period": "- Swift Evolution - Following language development and contributing to best practices",
+      "description": ""
+    },
+    {
+      "id": 18,
+      "title": "Featured Project: Anniversary Tracker",
+      "company": "150k+ Downloads",
+      "period": "- Product Development - End-to-end application development and App Store optimization",
+      "description": "- **User Success** - Demonstrated ability to create applications that users love and actively use"
+    },
+    {
+      "id": 19,
+      "title": "Portfolio of 12+ Apps",
+      "company": "- Diverse Categories - Productivity, utilities, finance, education, and lifestyle applications",
+      "period": "- Technical Variety - Showcasing different iOS frameworks, APIs, and development approaches",
+      "description": "- **Market Understanding** - Successful navigation of App Store ecosystem and user acquisition"
+    },
+    {
+      "id": 20,
+      "title": "Leadership Opportunities",
+      "company": "Seeking roles that leverage my unique combination of:",
+      "period": "- Deep Technical Expertise - 9+ years of professional iOS development experience",
+      "description": "- **Product Mindset** - Understanding of user needs and successful app development\n- **Enterprise Experience** - Large-scale application development at major financial institution"
+    },
+    {
+      "id": 21,
+      "title": "Ideal Roles & Environments",
+      "company": "- Senior/Principal iOS Developer - Technical leadership in innovative companies",
+      "period": "- iOS Architect - Driving technical strategy and architecture decisions",
+      "description": "- **Product-focused Engineering** - Companies prioritizing user experience and innovation"
+    },
+    {
+      "id": 22,
+      "title": "Technical Interests",
+      "company": "- SwiftUI Evolution - Modern iOS development and declarative UI patterns",
+      "period": "- Architecture Patterns - Clean architecture, modular design, and scalable systems",
+      "description": "- **Innovation** - Emerging iOS technologies and cutting-edge development practices"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Swift",
+      "level": 90
+    },
+    {
+      "name": "SwiftUI",
+      "level": 90
+    },
+    {
+      "name": "UIKit",
+      "level": 90
+    },
+    {
+      "name": "Objective-C",
+      "level": 90
+    },
+    {
+      "name": "Core Data",
+      "level": 90
+    },
+    {
+      "name": "MVVM",
+      "level": 90
+    },
+    {
+      "name": "Clean Architecture",
+      "level": 90
+    },
+    {
+      "name": "Protocol-Oriented Programming",
+      "level": 90
+    },
+    {
+      "name": "Dependency Injection",
+      "level": 90
+    },
+    {
+      "name": "Reactive Programming",
+      "level": 90
+    },
+    {
+      "name": "XCTest",
+      "level": 90
+    },
+    {
+      "name": "TDD",
+      "level": 90
+    },
+    {
+      "name": "OCMock",
+      "level": 90
+    },
+    {
+      "name": "UI Testing",
+      "level": 90
+    },
+    {
+      "name": "Code Review",
+      "level": 90
+    },
+    {
+      "name": "Git",
+      "level": 90
+    },
+    {
+      "name": "Jenkins/Fastlane",
+      "level": 90
+    },
+    {
+      "name": "Xcode",
+      "level": 90
+    },
+    {
+      "name": "Instruments",
+      "level": 90
+    },
+    {
+      "name": "JIRA/Confluence",
+      "level": 90
+    },
+    {
+      "name": "Technical Leadership",
+      "level": 90
+    },
+    {
+      "name": "Cross-functional Teams",
+      "level": 90
+    },
+    {
+      "name": "Agile/Scrum",
+      "level": 90
+    },
+    {
+      "name": "Code Quality",
+      "level": 90
+    },
+    {
+      "name": "Mentoring",
+      "level": 90
+    },
+    {
+      "name": "\ud83e\udd47 Highest iOS Repository Contributor",
+      "level": 90
+    },
+    {
+      "name": "\ud83d\udcc8 Architecture Leadership",
+      "level": 90
+    },
+    {
+      "name": "\ud83d\udc65 Team Leadership",
+      "level": 90
+    },
+    {
+      "name": "\ud83d\udd27 Process Improvement",
+      "level": 90
+    },
+    {
+      "name": "\ud83d\udcf1 150k+ Downloads",
+      "level": 90
+    },
+    {
+      "name": "\u2b50 4.7 Star Rating",
+      "level": 90
+    },
+    {
+      "name": "\ud83d\udcca 5k+ Ratings",
+      "level": 90
+    },
+    {
+      "name": "\ud83c\udfea App Store Success",
+      "level": 90
+    },
+    {
+      "name": "Legacy System Modernization",
+      "level": 90
+    },
+    {
+      "name": "Architecture Decision Making",
+      "level": 90
+    },
+    {
+      "name": "Code Review Leadership",
+      "level": 90
+    },
+    {
+      "name": "Technical Debt Management",
+      "level": 90
+    },
+    {
+      "name": "Cross-functional Leadership",
+      "level": 90
+    },
+    {
+      "name": "Developer Mentoring",
+      "level": 90
+    },
+    {
+      "name": "Process Optimization",
+      "level": 90
+    },
+    {
+      "name": "Knowledge Sharing",
+      "level": 90
+    },
+    {
+      "name": "Pragmatic Solutions",
+      "level": 90
+    },
+    {
+      "name": "User Experience Focus",
+      "level": 90
+    },
+    {
+      "name": "Continuous Learning",
+      "level": 90
+    },
+    {
+      "name": "Technical Strategy",
+      "level": 90
+    },
+    {
+      "name": "Apple Developer Program",
+      "level": 90
+    },
+    {
+      "name": "WWDC Attendance",
+      "level": 90
+    },
+    {
+      "name": "iOS Ecosystem",
+      "level": 90
+    },
+    {
+      "name": "App Store Guidelines",
+      "level": 90
+    },
+    {
+      "name": "Swift Evolution",
+      "level": 90
+    },
+    {
+      "name": "iOS Human Interface Guidelines",
+      "level": 90
+    },
+    {
+      "name": "Product Development",
+      "level": 90
+    },
+    {
+      "name": "Technologies",
+      "level": 90
+    },
+    {
+      "name": "User Success",
+      "level": 90
+    },
+    {
+      "name": "Diverse Categories",
+      "level": 90
+    },
+    {
+      "name": "Technical Variety",
+      "level": 90
+    },
+    {
+      "name": "Consistent Quality",
+      "level": 90
+    },
+    {
+      "name": "Market Understanding",
+      "level": 90
+    },
+    {
+      "name": "Deep Technical Expertise",
+      "level": 90
+    },
+    {
+      "name": "Proven Leadership",
+      "level": 90
+    },
+    {
+      "name": "Product Mindset",
+      "level": 90
+    },
+    {
+      "name": "Enterprise Experience",
+      "level": 90
+    },
+    {
+      "name": "Senior/Principal iOS Developer",
+      "level": 90
+    },
+    {
+      "name": "iOS Architect",
+      "level": 90
+    },
+    {
+      "name": "Team Lead/Manager",
+      "level": 90
+    },
+    {
+      "name": "Product-focused Engineering",
+      "level": 90
+    },
+    {
+      "name": "SwiftUI Evolution",
+      "level": 90
+    },
+    {
+      "name": "Architecture Patterns",
+      "level": 90
+    },
+    {
+      "name": "Team Development",
+      "level": 90
+    },
+    {
+      "name": "Innovation",
+      "level": 90
+    },
+    {
+      "name": "Email",
+      "level": 90
+    },
+    {
+      "name": "Portfolio",
+      "level": 90
+    },
+    {
+      "name": "Personal Site",
+      "level": 90
+    },
+    {
+      "name": "LinkedIn",
+      "level": 90
+    },
+    {
+      "name": "References",
+      "level": 90
+    }
+  ]
+}
