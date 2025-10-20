@@ -3,15 +3,16 @@ import { Star, Download, Mail, Phone, MapPin, Calendar, GraduationCap, Menu, X, 
 import portfolioData from './portfolio_data.json';
 
 interface App {
-  id: number;
+  id: string;
   name: string;
   category: string;
   description: string;
   rating: number;
   downloads: string;
   price: string;
-  icon: string;
+  icon_url: string;
   screenshots: number;
+  app_store_url: string;
 }
 
 interface Experience {
@@ -37,10 +38,10 @@ export default function Portfolio() {
   const [selectedApp, setSelectedApp] = useState<App | null>(null);
   const [activeSection, setActiveSection] = useState('hero');
 
-  const heroRef = useRef<HTMLDivElement>(null);
-  const appsRef = useRef<HTMLDivElement>(null);
-  const cvRef = useRef<HTMLDivElement>(null);
-  const contactRef = useRef<HTMLDivElement>(null);
+  const heroRef = useRef<HTMLElement>(null);
+  const appsRef = useRef<HTMLElement>(null);
+  const cvRef = useRef<HTMLElement>(null);
+  const contactRef = useRef<HTMLElement>(null);
 
   const categories = ['All', ...Array.from(new Set(apps.map(app => app.category)))];
 
@@ -48,7 +49,7 @@ export default function Portfolio() {
     ? apps
     : apps.filter(app => app.category === selectedCategory);
 
-  const scrollToSection = (ref: React.RefObject<HTMLDivElement>, sectionName: string) => {
+  const scrollToSection = (ref: React.RefObject<HTMLElement | null>, sectionName: string) => {
     ref.current?.scrollIntoView({ behavior: 'smooth' });
     setMobileMenuOpen(false);
   };
